@@ -236,21 +236,70 @@
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4206">PSAS Launch 11</tspan></text>
-    <g
-       id="g4230"
-       transform="translate(540,-360)">
-      <path
-         transform="translate(0,-4347.6403)"
-         id="path4228"
-         d="M 280.21277,1056.9791 C 304.37197,1245.1725 344,1634.0283 344,2160 l -164,0 0,0 c 0,-525.9717 39.62803,-914.8275 63.78723,-1103.0209"
-         style="fill:none;stroke:#ff0e0e;stroke-width:1.79999995;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         inkscape:connector-curvature="0" />
-      <path
-         sodipodi:nodetypes="ccc"
-         inkscape:connector-curvature="0"
-         id="path4220"
-         d="m 243.82291,-3290.3455 c 4.44707,-34.9185 18.09456,-126.4995 18.09456,-126.4124 0,0 14.06397,91.7913 18.26397,126.45"
-         style="fill:none;stroke:#38ff0e;stroke-width:1.79999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
-    </g>
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff0e0e;stroke-width:9;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="M 820.21277,-3650.6612 C 844.37197,-3462.4678 884,-3073.612 884,-2547.6403 l -164,0 0,0 c 0,-525.9717 39.62803,-914.8275 63.78723,-1103.0209"
+       id="path4228" />
+    <path
+       style="fill:none;stroke:#38ff0e;stroke-width:9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 783.82291,-3650.3455 c 4.44707,-34.9185 18.09456,-126.4995 18.09456,-126.4124 0,0 14.06397,91.7913 18.26397,126.45"
+       id="path4220"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <rect
+       style="fill:none;stroke:#0effb7;stroke-width:9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4236"
+       width="163.2"
+       height="541.5"
+       x="720"
+       y="-2547.6404" />
+    <rect
+       style="fill:none;stroke:#9ad6c4;stroke-width:9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4236-7"
+       width="163.2"
+       height="529.59003"
+       x="720"
+       y="-2005.7302" />
+    <rect
+       style="fill:none;stroke:#8ef27e;stroke-width:9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4236-7-9"
+       width="163.2"
+       height="141"
+       x="720"
+       y="-1475.6403" />
+    <rect
+       style="fill:none;stroke:#bbd799;stroke-width:9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4236-7-9-6"
+       width="163.17"
+       height="140.07001"
+       x="720"
+       y="-1334.7341" />
+    <rect
+       style="fill:none;stroke:#d7a44c;stroke-width:9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4236-7-0"
+       width="163.2"
+       height="529.59003"
+       x="720"
+       y="-1194.9219" />
+    <rect
+       style="fill:none;stroke:#ff2424;stroke-width:9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4236-7-0-9"
+       width="163.2"
+       height="1011"
+       x="720"
+       y="-664.9411" />
+    <path
+       style="fill:none;stroke:#ff2424;stroke-width:9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 885.1534,-83.582016 170.7054,102.08282 -1.3555,218.018436 -169.3499,107.90875"
+       id="path4328"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#ffffff;stroke:#ff2424;stroke-width:9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;fill-opacity:1"
+       d="M 754.0245,-83.7231 583.3191,18.3597 584.6746,236.3782 754.0245,344.2869"
+       id="path4328-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
   </g>
 </svg>
