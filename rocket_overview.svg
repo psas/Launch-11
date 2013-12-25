@@ -24,7 +24,7 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.12806489"
+     inkscape:zoom="0.18111111"
      inkscape:cx="2160"
      inkscape:cy="2700"
      inkscape:document-units="in"
@@ -39,7 +39,9 @@
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      guidecolor="#bd00ff"
-     guideopacity="0.19607843">
+     guideopacity="0.19607843"
+     showguides="true"
+     inkscape:guide-bbox="true">
     <inkscape:grid
        type="xygrid"
        id="grid2985"
@@ -86,6 +88,10 @@
        position="4140,5220"
        orientation="0,-3960"
        id="guide4183" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="720,4860"
+       id="guide4234" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -151,52 +157,6 @@
            sodipodi:role="line"
            x="-360"
            y="-4347.6401">Title</tspan></text>
-    </g>
-    <g
-       id="g3995"
-       transform="matrix(3.5405197,0,0,3.2808812,-284.58709,9637.6472)">
-      <rect
-         y="-4070.6404"
-         x="360"
-         height="369"
-         width="49.5"
-         id="rect3168"
-         style="fill:#7e0cff;fill-opacity:1;stroke:none" />
-      <rect
-         y="-3699.6404"
-         x="360"
-         height="162"
-         width="49.5"
-         id="rect3168-9"
-         style="fill:#93f2d8;fill-opacity:1;stroke:none" />
-      <rect
-         y="-3537.6404"
-         x="360"
-         height="162"
-         width="49.5"
-         id="rect3168-9-4"
-         style="fill:#6cedca;fill-opacity:1;stroke:none" />
-      <rect
-         y="-3267.6404"
-         x="360"
-         height="162"
-         width="49.5"
-         id="rect3168-9-1"
-         style="fill:#c7f0e5;fill-opacity:1;stroke:none" />
-      <rect
-         y="-3357.6404"
-         x="360"
-         height="89.999893"
-         width="49.5"
-         id="rect3168-9-2"
-         style="fill:#93f2d8;fill-opacity:1;stroke:none" />
-      <rect
-         y="-3105.6404"
-         x="360"
-         height="306"
-         width="49.5"
-         id="rect3168-9-9"
-         style="fill:#f2cd93;fill-opacity:1;stroke:none" />
     </g>
     <g
        id="g4162"
@@ -276,5 +236,21 @@
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4206">PSAS Launch 11</tspan></text>
+    <g
+       id="g4230"
+       transform="translate(540,-360)">
+      <path
+         transform="translate(0,-4347.6403)"
+         id="path4228"
+         d="M 280.21277,1056.9791 C 304.37197,1245.1725 344,1634.0283 344,2160 l -164,0 0,0 c 0,-525.9717 39.62803,-914.8275 63.78723,-1103.0209"
+         style="fill:none;stroke:#ff0e0e;stroke-width:1.79999995;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:nodetypes="ccc"
+         inkscape:connector-curvature="0"
+         id="path4220"
+         d="m 243.82291,-3290.3455 c 4.44707,-34.9185 18.09456,-126.4995 18.09456,-126.4124 0,0 14.06397,91.7913 18.26397,126.45"
+         style="fill:none;stroke:#38ff0e;stroke-width:1.79999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    </g>
   </g>
 </svg>
