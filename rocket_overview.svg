@@ -2,6 +2,7 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -16,7 +17,16 @@
    inkscape:version="0.48.3.1 r9886"
    sodipodi:docname="rocket_overview.svg">
   <defs
-     id="defs4" />
+     id="defs4">
+    <linearGradient
+       id="linearGradient6421"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop6423" />
+    </linearGradient>
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -24,7 +34,7 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.18111111"
+     inkscape:zoom="0.12806489"
      inkscape:cx="2160"
      inkscape:cy="2700"
      inkscape:document-units="in"
@@ -46,8 +56,8 @@
        type="xygrid"
        id="grid2985"
        empspacing="4"
-       visible="true"
-       enabled="false"
+       visible="false"
+       enabled="true"
        snapvisiblegridlinesonly="true"
        units="in"
        spacingx="1in"
@@ -61,8 +71,8 @@
        type="xygrid"
        id="grid2987"
        empspacing="1"
-       visible="true"
-       enabled="false"
+       visible="false"
+       enabled="true"
        snapvisiblegridlinesonly="true"
        units="in"
        spacingx="0.25in"
@@ -175,7 +185,7 @@
          sodipodi:role="line"
          id="tspan4206">PSAS Launch 11</tspan></text>
     <rect
-       style="fill:none;stroke:#0effb7;stroke-width:9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       style="fill:none;stroke:#000000;stroke-width:9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect4236"
        width="163.2"
        height="541.5"
@@ -236,22 +246,22 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
     <rect
-       style="fill:none;stroke:#ff24e9;stroke-width:9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       style="fill:#ff7f1b;fill-opacity:1;stroke:#9d4500;stroke-width:13.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect4354"
-       width="118.18517"
-       height="90"
-       x="750.58252"
-       y="-2686.8816"
-       ry="22.50008" />
+       width="130.5"
+       height="76.5"
+       x="742.58246"
+       y="-2673.3816"
+       ry="19.125069" />
     <path
-       style="fill:none;stroke:#ee7ef0;stroke-width:3.5999999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-       d="m 745.33713,-2725.9556 43.88892,-361.6846"
+       style="fill:none;stroke:#c59516;stroke-width:3.5999999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="M 745.33713,-2725.9556 787.5,-3087.6403"
        id="path4360"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:none;stroke:#ee7ef0;stroke-width:3.5999999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-       d="m 828.45378,-3089.1544 49.40133,363.4771"
+       style="fill:none;stroke:#c59516;stroke-width:3.5999999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 828.5,-3087.6403 53.40133,363.4771"
        id="path4362"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
@@ -995,26 +1005,22 @@
            sodipodi:role="line">0.5</tspan></text>
     </g>
     <path
-       style="fill:none;fill-opacity:1;stroke:#ee7ef0;stroke-width:3.5999999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3.5999999,7.19999981;stroke-dashoffset:0"
-       d="m 763.34356,1620.207 20.36043,-291.2576"
+       style="fill:none;stroke:#c59516;stroke-width:3.5999999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3.5999999, 7.19999981;stroke-dashoffset:0"
+       d="m 765,1624 22.5,-364"
        id="path4762"
        inkscape:connector-curvature="0"
        transform="translate(0,-4347.6403)"
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:none;fill-opacity:1;stroke:#ee7ef0;stroke-width:3.5999999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3.5999999,7.19999981;stroke-dashoffset:0"
-       d="M 855.82822,1620.8972 832.70706,1328.6043"
+       style="fill:none;stroke:#c59516;stroke-width:3.5999999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3.5999999, 7.19999981;stroke-dashoffset:0"
+       d="M 855.82822,1620.8972 828.5,1260"
        id="path4764"
        inkscape:connector-curvature="0"
-       transform="translate(0,-4347.6403)" />
+       transform="translate(0,-4347.6403)"
+       sodipodi:nodetypes="cc" />
     <path
-       style="fill:#ffffff;fill-opacity:1;stroke:#ff24e9;stroke-width:9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0"
-       d="m 736.22363,-2726.084 147.14723,0 c 0,0 0,0 0,0 l 0,22.5 c 0,0 0,0 0,0 l -147.14723,0 c 0,0 0,0 0,0 l 0,-22.5 c 0,0 0,0 0,0 z"
-       id="rect4356"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#ff24e9;stroke-width:3.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;stroke-dasharray:none"
-       d="m 787.52051,-3092.1823 41.5018,0 c 0,0 0,0 0,0 l 0,394.416 c 0,0 0,0 0,0 l -41.5018,0 c 0,0 0,0 0,0 l 0,-394.416 c 0,0 0,0 0,0 z"
+       style="fill:none;stroke:#77a0ac;stroke-width:3.59999989999999981;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 787.52051,-3092.1824 41.5018,0 c 0,0 0,0 0,0 l 0,408.2197 c 0,0 0,0 0,0 l -41.5018,0 c 0,0 0,0 0,0 l 0,-408.2197 c 0,0 0,0 0,0 z"
        id="rect4358"
        inkscape:connector-curvature="0" />
     <path
@@ -1023,7 +1029,12 @@
        d="m 828.2953,-3681.5436 c 24.1592,188.1934 63.78723,577.0492 63.78723,1103.0209 l -164,0 0,0 c 0,-525.9717 39.62803,-914.8275 63.78723,-1103.0209"
        id="path4228" />
     <path
-       style="fill:none;stroke:#a0a0a0;stroke-width:9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       style="fill:#515151;fill-opacity:1;stroke:#919191;stroke-width:1.8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 736.22363,-2724.984 147.14723,0 c 0,0 0,0 0,0 l 0,5.4 c 0,0 0,0 0,0 l -147.14723,0 c 0,0 0,0 0,0 l 0,-5.4 c 0,0 0,0 0,0 z"
+       id="rect4356"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#a0a0a0;stroke-width:9;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        d="M 791.90544,-3681.2279 C 796.35251,-3716.1464 810,-3807.7274 810,-3807.6403 c 0,0 14.06397,91.7913 18.26397,126.45 z"
        id="path4220"
        inkscape:connector-curvature="0"
@@ -1031,14 +1042,14 @@
     <text
        xml:space="preserve"
        style="font-size:80px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Light;-inkscape-font-specification:'Futura LT Light,'"
-       x="1530"
-       y="-3447.6404"
+       x="1822.5"
+       y="-3159.1404"
        id="text3012-3-2-8"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4787"
-         x="1530"
-         y="-3447.6404">Nosecone</tspan></text>
+         x="1822.5"
+         y="-3159.1404">Nosecone</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:25px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book, Bold'"
@@ -1094,5 +1105,183 @@
        id="path4889-9"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:25px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book, Bold'"
+       x="990"
+       y="-2637.6404"
+       id="text3012-3-0-0-6-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6501">Drogue Parachute</tspan></text>
+    <path
+       style="fill:none;stroke:#c8c8c8;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 990,-2637.6403 -116,0"
+       id="path4889-9-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Helvetica CE 55 Roman;-inkscape-font-specification:'Helvetica CE 55 Roman,'"
+       x="1244"
+       y="-2637.6404"
+       id="text3012-5-03-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6542">Rip-stop nylon</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Helvetica CE 55 Roman;-inkscape-font-specification:'Helvetica CE 55 Roman,'"
+       x="1180"
+       y="-2840.1404"
+       id="text3012-5-03-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6599"
+         x="1180"
+         y="-2840.1404">Expanded PVC</tspan></text>
+    <path
+       style="fill:none;stroke:#c8c8c8;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 990,-2840.1402 -116.5,118.4999"
+       id="path4889-9-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:25px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book, Bold'"
+       x="990"
+       y="-3087.6401"
+       id="text3012-3-0-0-6-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6616">Pusher Assembly</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6618"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Helvetica CE 55 Roman;-inkscape-font-specification:'Helvetica CE 55 Roman,'"
+       transform="translate(-72.875,-4428.5689)"><flowRegion
+         id="flowRegion6620"><rect
+           id="rect6622"
+           width="485.88956"
+           height="153.22086"
+           x="1062.8834"
+           y="1350"
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr;text-anchor:start;font-family:Helvetica CE 55 Roman;-inkscape-font-specification:'Helvetica CE 55 Roman,'" /></flowRegion><flowPara
+         id="flowPara6632">Once the nosecone and rocket have been mechanically separated by the NSR, there is still a need to push the two pieces far enough apart to expose the Drogue chute to air. The Pusher Assembly includes a hollow tube that is tied off with surgical tubing to a support ring that is attached to the nosecone. When loaded the tubing is cocked and puts about 200 N of force on the recovery assembly.</flowPara><flowPara
+         id="flowPara6634"></flowPara><flowPara
+         id="flowPara6636">The Pusher Assembly is made up of:</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
+       x="990"
+       y="-2840.1404"
+       id="text3012-3-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6659"
+         x="990"
+         y="-2840.1404">Pusher Support Ring</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Helvetica CE 55 Roman;-inkscape-font-specification:'Helvetica CE 55 Roman,'"
+       x="1102"
+       y="-2930.1404"
+       id="text3012-5-03-5-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6690"
+         x="1102"
+         y="-2930.1404">Clear Plastic</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
+       x="990"
+       y="-2930.1404"
+       id="text3012-3-4-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6688"
+         x="990"
+         y="-2930.1404">Pusher Rod</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
+       x="990"
+       y="-2885.1404"
+       id="text3012-3-4-2-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6719"
+         x="990"
+         y="-2885.1404">Surgical Tubing</tspan></text>
+    <path
+       style="fill:none;stroke:#c8c8c8;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 990,-2885.1402 -135,45"
+       id="path4889-9-1-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#c8c8c8;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 990,-2930.1402 -180,45"
+       id="path4889-9-1-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#515151;fill-opacity:1;stroke:#000000;stroke-width:3.60000000000000009;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 765,1665 90,0"
+       id="path6746"
+       inkscape:connector-curvature="0"
+       transform="translate(0,-4347.6403)" />
+    <text
+       xml:space="preserve"
+       style="font-size:25px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book, Bold'"
+       x="990"
+       y="-2277.6404"
+       id="text3012-3-0-0-6-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6778"
+         x="990"
+         y="-2277.6404">Recovery Module</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Helvetica CE 55 Roman;-inkscape-font-specification:'Helvetica CE 55 Roman,'"
+       x="1232"
+       y="-2277.6404"
+       id="text3012-5-03-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6780"
+         x="1232"
+         y="-2277.6404">Fiberglass shell, aluminum body</tspan></text>
+    <path
+       style="fill:none;stroke:#c8c8c8;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 990,-2277.6404 -98,0"
+       id="path4889-9-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:78.68177795px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Light;-inkscape-font-specification:'Futura LT Light,'"
+       x="2768.1121"
+       y="-2692.53"
+       id="text3012-3-2-8-5"
+       sodipodi:linespacing="125%"
+       transform="scale(0.98352226,1.0167538)"><tspan
+         sodipodi:role="line"
+         id="tspan6803"
+         x="2768.1121"
+         y="-2692.53">Recovery System</tspan></text>
+    <path
+       style="fill:none;stroke:#ff1250;stroke-width:2.70000005;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 1620,-2570.1403 c 180,0 90,-441.9643 90,-530.3572 0,-88.3928 90,-88.3928 90,-88.3928 0,0 -90,0 -90,-88.3929 0,-88.3928 90,-530.3571 -90,-530.3571"
+       id="path6805"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csccc" />
+    <path
+       style="fill:none;stroke:#12ff46;stroke-width:2.69999981;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 2520,-1737.6406 c 180,0 90,-739.2856 90,-887.1429 0,-147.857 90,-147.857 90,-147.857 0,0 -90,0 -90,-147.8572 0,-147.857 90,-887.1426 -90,-887.1426"
+       id="path6805-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csccc" />
   </g>
 </svg>
