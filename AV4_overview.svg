@@ -742,9 +742,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.25612979"
-     inkscape:cx="1420.6892"
-     inkscape:cy="1370.8643"
+     inkscape:zoom="0.25089196"
+     inkscape:cx="1620"
+     inkscape:cy="1350"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -790,7 +790,7 @@
        empcolor="#f000ff"
        empopacity="0" />
     <sodipodi:guide
-       position="180,2520"
+       position="180,1530"
        orientation="2340,0"
        id="guide13453" />
     <sodipodi:guide
@@ -826,7 +826,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -956,26 +956,7 @@
        id="path5880-3-9-9-0-7"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc" />
-    <rect
-       style="fill:none;stroke:#c3c3c3;stroke-width:1.79999983;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-       id="rect2985-7-5-8-7-5-6-2"
-       width="540"
-       height="134.99995"
-       x="1890"
-       y="-837.638" />
-    <flowRoot
-       transform="matrix(2.9026431,0,0,2.9026431,932.85795,-1114.0486)"
-       xml:space="preserve"
-       id="flowRoot3951-6-4-1-6-6-8-9"
-       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"><flowRegion
-         id="flowRegion3953-6-2-2-6-5-9-0"><rect
-           id="rect3955-8-1-0-0-68-5-5"
-           width="170.53423"
-           height="133.50584"
-           x="337.5"
-           y="116.75244"
-           style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'" /></flowRegion><flowPara
-         id="flowPara5133">Olimex STM32-E407 Breakout board</flowPara></flowRoot>    <path
+    <path
        style="fill:none;stroke:#000000;stroke-width:6.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:13.5, 6.75, 3.375, 6.75;stroke-dashoffset:0;marker-start:url(#Arrow1Mstart-8);marker-end:url(#Arrow1Mend-55)"
        d="m 1260,377.362 0,337.5 585,0 0,67.5"
        id="path5824-0"
@@ -1132,112 +1113,6 @@
        id="path9232-8-5-2"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
-    <g
-       id="g4957">
-      <rect
-         y="-1197.6379"
-         x="180"
-         height="179.99995"
-         width="540"
-         id="rect2985-7-5-8-7-5-6-9"
-         style="fill:none;stroke:#c3c3c3;stroke-width:1.79999983;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
-      <flowRoot
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
-         id="flowRoot3951-6-4-1-6-6-8-1"
-         xml:space="preserve"
-         transform="matrix(2.9026431,0,0,2.9026431,-777.14205,-1474.0486)"><flowRegion
-           id="flowRegion3953-6-2-2-6-5-9-2"><rect
-             style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
-             y="116.75244"
-             x="337.5"
-             height="133.50584"
-             width="170.53423"
-             id="rect3955-8-1-0-0-68-5-8" /></flowRegion><flowPara
-           id="flowPara7322">~19V shore power</flowPara><flowPara
-           id="flowPara7324">Launch relay interlock (Rocket Ready)</flowPara></flowRoot>      <text
-         sodipodi:linespacing="125%"
-         id="text3823"
-         y="-1152.6379"
-         x="450"
-         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book, Bold'"
-         xml:space="preserve"><tspan
-           y="-1152.6379"
-           x="450"
-           id="tspan3825"
-           sodipodi:role="line">Rocket Ground <tspan
-   style="fill:#e31d1d;fill-opacity:1"
-   id="tspan4922">Umbilical</tspan></tspan></text>
-    </g>
-    <g
-       id="g5119">
-      <rect
-         y="-1265.1379"
-         x="1260"
-         height="134.99995"
-         width="540"
-         id="rect2985-7-5-8-7-5-6-2-14"
-         style="fill:none;stroke:#c3c3c3;stroke-width:1.79999983;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
-      <flowRoot
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
-         id="flowRoot3951-6-4-1-6-6-8-9-3"
-         xml:space="preserve"
-         transform="matrix(2.9026431,0,0,2.9026431,302.85795,-1541.5485)"><flowRegion
-           id="flowRegion3953-6-2-2-6-5-9-0-1"><rect
-             style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
-             y="116.75244"
-             x="337.5"
-             height="133.50584"
-             width="170.53423"
-             id="rect3955-8-1-0-0-68-5-5-0" /></flowRegion><flowPara
-           id="flowPara9153">TODO details</flowPara></flowRoot>      <text
-         sodipodi:linespacing="125%"
-         id="text3823-1"
-         y="-1220.1379"
-         x="1530"
-         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#e31d1d;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book, Bold'"
-         xml:space="preserve"><tspan
-           id="tspan5026"
-           sodipodi:role="line"
-           x="1530"
-           y="-1220.1379">Camera</tspan></text>
-    </g>
-    <g
-       transform="translate(-900,1979.9999)"
-       id="g4957-7">
-      <rect
-         y="-1197.6379"
-         x="180"
-         height="179.99995"
-         width="540"
-         id="rect2985-7-5-8-7-5-6-9-8"
-         style="fill:none;stroke:#c3c3c3;stroke-width:1.79999983;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
-      <flowRoot
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
-         id="flowRoot3951-6-4-1-6-6-8-1-7"
-         xml:space="preserve"
-         transform="matrix(2.9026431,0,0,2.9026431,-777.14205,-1474.0486)"><flowRegion
-           id="flowRegion3953-6-2-2-6-5-9-2-8"><rect
-             style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
-             y="116.75244"
-             x="337.5"
-             height="133.50584"
-             width="170.53423"
-             id="rect3955-8-1-0-0-68-5-8-0" /></flowRegion><flowPara
-           id="flowPara7322-4">~19V shore power</flowPara><flowPara
-           id="flowPara7324-6">Launch relay interlock (Rocket Ready)</flowPara></flowRoot>      <text
-         sodipodi:linespacing="125%"
-         id="text3823-0"
-         y="-1152.6379"
-         x="450"
-         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book, Bold'"
-         xml:space="preserve"><tspan
-           y="-1152.6379"
-           x="450"
-           id="tspan3825-2"
-           sodipodi:role="line">Rocket Ground <tspan
-   style="fill:#e31d1d;fill-opacity:1"
-   id="tspan4922-6">Umbilical</tspan></tspan></text>
-    </g>
     <rect
        style="fill:#e31d1d;fill-opacity:1;stroke:none;stroke-width:4.50000000000000000;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect5013"
@@ -1254,7 +1129,77 @@
        x="-247.5"
        y="309.862" />
     <g
-       id="g5130">
+       id="g6096">
+      <rect
+         y="-1197.6379"
+         x="180"
+         height="179.99995"
+         width="540"
+         id="rect2985-7-5-8-7-5-6-9"
+         style="fill:none;stroke:#c3c3c3;stroke-width:1.79999983;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3823"
+         y="-1152.6379"
+         x="450"
+         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book, Bold'"
+         xml:space="preserve"><tspan
+           y="-1152.6379"
+           x="450"
+           id="tspan3825"
+           sodipodi:role="line">Rocket Ground <tspan
+   style="fill:#e31d1d;fill-opacity:1"
+   id="tspan4922">Umbilical</tspan></tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text5676"
+         y="-1107.6379"
+         x="202.5"
+         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
+         xml:space="preserve"><tspan
+           y="-1107.6379"
+           x="202.5"
+           id="tspan5680"
+           sodipodi:role="line">~19V shore power</tspan><tspan
+           y="-1070.1379"
+           x="202.5"
+           id="tspan5682"
+           sodipodi:role="line">Launch relay interlock (Rocket Ready)</tspan></text>
+    </g>
+    <g
+       id="g6114">
+      <rect
+         y="-1265.1379"
+         x="1260"
+         height="134.99995"
+         width="540"
+         id="rect2985-7-5-8-7-5-6-2-14"
+         style="fill:none;stroke:#c3c3c3;stroke-width:1.79999983;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3823-1"
+         y="-1220.1379"
+         x="1530"
+         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#e31d1d;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book, Bold'"
+         xml:space="preserve"><tspan
+           id="tspan5026"
+           sodipodi:role="line"
+           x="1530"
+           y="-1220.1379">Camera</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text5676-1"
+         y="-1175.1379"
+         x="1282.5"
+         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
+         xml:space="preserve"><tspan
+           y="-1175.1379"
+           x="1282.5"
+           id="tspan6112"
+           sodipodi:role="line">TODO: Details</tspan></text>
+    </g>
+    <g
+       id="g6130">
       <rect
          y="-1062.6379"
          x="1260"
@@ -1262,30 +1207,31 @@
          width="540"
          id="rect2985-7-5-8-7-5-6-2-1"
          style="fill:none;stroke:#c3c3c3;stroke-width:1.79999983;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
-      <flowRoot
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
-         id="flowRoot3951-6-4-1-6-6-8-9-5"
-         xml:space="preserve"
-         transform="matrix(2.9026431,0,0,2.9026431,302.85795,-1339.0485)"><flowRegion
-           id="flowRegion3953-6-2-2-6-5-9-0-8"><rect
-             style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
-             y="116.75244"
-             x="337.5"
-             height="133.50584"
-             width="170.53423"
-             id="rect3955-8-1-0-0-68-5-5-9" /></flowRegion><flowPara
-           id="flowPara9151">TODO linux details</flowPara></flowRoot>      <text
+      <text
          sodipodi:linespacing="125%"
          id="text3823-1-5"
          y="-1017.638"
          x="1530"
-         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book, Bold'"
+         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book, Bold'"
          xml:space="preserve"><tspan
            id="tspan5128"
-           sodipodi:role="line">Raspberry Pi</tspan></text>
+           sodipodi:role="line"
+           x="1530"
+           y="-1017.638">Raspberry Pi</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text5676-0"
+         y="-972.638"
+         x="1282.5"
+         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
+         xml:space="preserve"><tspan
+           y="-972.638"
+           x="1282.5"
+           id="tspan6128"
+           sodipodi:role="line">TODO: Details</tspan></text>
     </g>
     <g
-       id="g5290">
+       id="g6198">
       <rect
          y="-1107.6379"
          x="1890"
@@ -1293,43 +1239,39 @@
          width="540"
          id="rect2985-7-5-8-7-5-6-0"
          style="fill:none;stroke:#c3c3c3;stroke-width:1.79999971;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
-      <flowRoot
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
-         id="flowRoot3951-6-4-1-6-6-8-6"
-         xml:space="preserve"
-         transform="matrix(2.9026431,0,0,2.9026431,932.85795,-1384.0486)"><flowRegion
-           id="flowRegion3953-6-2-2-6-5-9-5"><rect
-             style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
-             y="116.75244"
-             x="337.5"
-             height="133.50584"
-             width="170.53423"
-             id="rect3955-8-1-0-0-68-5-4" /></flowRegion><flowPara
-           id="flowPara5257">ADIS16405 (9DOF IMU)</flowPara><flowPara
-           id="flowPara5259">MPU9150 (6DOF IMU)</flowPara><flowPara
-           id="flowPara5261">MPL3115A2 (Baro)</flowPara></flowRoot>      <text
+      <text
          sodipodi:linespacing="125%"
          id="text3823-1-9"
          y="-1062.6379"
          x="2160"
-         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book, Bold'"
+         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book, Bold'"
          xml:space="preserve"><tspan
            id="tspan5150"
-           sodipodi:role="line">Sensors</tspan></text>
+           sodipodi:role="line"
+           x="2160"
+           y="-1062.6379">Sensors</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text5676-9"
+         y="-1017.638"
+         x="1912.5"
+         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
+         xml:space="preserve"><tspan
+           y="-1017.638"
+           x="1912.5"
+           id="tspan6192"
+           sodipodi:role="line">ADIS16405 (9DOF IMU)</tspan><tspan
+           y="-980.138"
+           x="1912.5"
+           id="tspan6194"
+           sodipodi:role="line">MPU9150 (6DOF IMU)</tspan><tspan
+           y="-942.638"
+           x="1912.5"
+           id="tspan6196"
+           sodipodi:role="line">MPL3115A2 (Baro)</tspan></text>
     </g>
-    <text
-       xml:space="preserve"
-       style="font-size:30px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book, Bold'"
-       x="2160"
-       y="-792.638"
-       id="text3823-1-9-5"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan5311"><tspan
-   style="fill:#e31d1d;fill-opacity:1"
-   id="tspan5653">IMU</tspan> Node</tspan></text>
     <g
-       id="g5333">
+       id="g6220">
       <rect
          y="-1107.6379"
          x="2520"
@@ -1337,30 +1279,31 @@
          width="540"
          id="rect2985-7-5-8-7-5-6-04"
          style="fill:none;stroke:#c3c3c3;stroke-width:1.79999983;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
-      <flowRoot
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
-         id="flowRoot3951-6-4-1-6-6-8-2"
-         xml:space="preserve"
-         transform="matrix(2.9026431,0,0,2.9026431,1562.858,-1384.0486)"><flowRegion
-           id="flowRegion3953-6-2-2-6-5-9-4"><rect
-             style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
-             y="116.75244"
-             x="337.5"
-             height="133.50584"
-             width="170.53423"
-             id="rect3955-8-1-0-0-68-5-6" /></flowRegion><flowPara
-           id="flowPara5367">TODO: Servo part #</flowPara></flowRoot>      <text
+      <text
          sodipodi:linespacing="125%"
          id="text3823-1-9-4"
          y="-1062.6379"
          x="2790"
-         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book, Bold'"
+         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book, Bold'"
          xml:space="preserve"><tspan
            id="tspan5331"
-           sodipodi:role="line">Roll Control Servo</tspan></text>
+           sodipodi:role="line"
+           x="2790"
+           y="-1062.6379">Roll Control Servo</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text5676-9-5"
+         y="-1017.638"
+         x="2542.5"
+         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
+         xml:space="preserve"><tspan
+           id="tspan6216"
+           sodipodi:role="line">300 Hz digital servo</tspan><tspan
+           id="tspan6218"
+           sodipodi:role="line">TODO: Servo part #</tspan></text>
     </g>
     <g
-       id="g5363">
+       id="g6267">
       <rect
          y="-837.638"
          x="2520"
@@ -1368,70 +1311,65 @@
          width="540"
          id="rect2985-7-5-8-7-5-6-2-2"
          style="fill:none;stroke:#c3c3c3;stroke-width:1.79999983;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
-      <flowRoot
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
-         id="flowRoot3951-6-4-1-6-6-8-9-2"
-         xml:space="preserve"
-         transform="matrix(2.9026431,0,0,2.9026431,1562.858,-1114.0486)"><flowRegion
-           id="flowRegion3953-6-2-2-6-5-9-0-9"><rect
-             style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
-             y="116.75244"
-             x="337.5"
-             height="133.50584"
-             width="170.53423"
-             id="rect3955-8-1-0-0-68-5-5-3" /></flowRegion><flowPara
-           id="flowPara5133-45">Olimex STM32-E407 Breakout board</flowPara></flowRoot>      <text
+      <text
          sodipodi:linespacing="125%"
          id="text3823-1-9-8"
          y="-792.638"
          x="2790"
-         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book, Bold'"
-         xml:space="preserve"><tspan
-           id="tspan5352"
-           sodipodi:role="line"><tspan
-   style="fill:#e31d1d;fill-opacity:1"
-   id="tspan5655">Roll Control</tspan> node</tspan></text>
-    </g>
-    <g
-       id="g5639">
-      <rect
-         y="-497.90237"
-         x="1440"
-         height="290.26437"
-         width="720"
-         id="rect2985-7-9"
-         style="fill:#f5f5f5;fill-opacity:1;stroke:#c3c3c3;stroke-width:2.25;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
-      <flowRoot
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
-         id="flowRoot3951-6-61"
-         xml:space="preserve"
-         transform="matrix(2.9026431,0,0,2.9026431,482.85795,-754.04853)"><flowRegion
-           id="flowRegion3953-6-5"><rect
-             style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
-             y="116.75244"
-             x="337.5"
-             height="86.996521"
-             width="232.54668"
-             id="rect3955-8-06" /></flowRegion><flowPara
-           id="flowPara6447">1.6 GHz x86_64</flowPara><flowPara
-           id="flowPara6449">1 G RAM</flowPara><flowPara
-           id="flowPara6451">Debian Linux - 3.5.3 kernel</flowPara><flowPara
-           id="flowPara6453">Project Elderberry FC Framework</flowPara></flowRoot>      <text
-         sodipodi:linespacing="125%"
-         id="text3823-1-9-7"
-         y="-432.638"
-         x="1800"
          style="font-size:30px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book, Bold'"
          xml:space="preserve"><tspan
-           y="-432.638"
-           x="1800"
-           id="tspan5637"
-           sodipodi:role="line">Intel Atom N455 PCI-104 <tspan
+           id="tspan5352"
+           sodipodi:role="line"
+           x="2790"
+           y="-792.638"><tspan
    style="fill:#e31d1d;fill-opacity:1"
-   id="tspan5665">Computer</tspan></tspan></text>
+   id="tspan5655">Roll Control</tspan> node</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text5676-9-4"
+         y="-747.638"
+         x="2542.5"
+         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
+         xml:space="preserve"><tspan
+           y="-747.638"
+           x="2542.5"
+           id="tspan6236"
+           sodipodi:role="line">Olimex STM32-E407 Breakout board</tspan></text>
     </g>
     <g
-       id="g5386">
+       id="g6259">
+      <rect
+         y="-837.638"
+         x="1890"
+         height="134.99995"
+         width="540"
+         id="rect2985-7-5-8-7-5-6-2"
+         style="fill:none;stroke:#c3c3c3;stroke-width:1.79999983;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3823-1-9-5"
+         y="-792.638"
+         x="2160"
+         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book, Bold'"
+         xml:space="preserve"><tspan
+           id="tspan5311"
+           sodipodi:role="line"><tspan
+   id="tspan5653"
+   style="fill:#e31d1d;fill-opacity:1">IMU</tspan> Node</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text5676-9-4-2"
+         y="-747.638"
+         x="1912.5"
+         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
+         xml:space="preserve"><tspan
+           y="-747.638"
+           x="1912.5"
+           id="tspan6236-4"
+           sodipodi:role="line">Olimex STM32-E407 Breakout board</tspan></text>
+    </g>
+    <g
+       id="g6386">
       <rect
          y="-27.637945"
          x="2250"
@@ -1439,32 +1377,39 @@
          width="540"
          id="rect2985-7-5-8-7-5-6-2-0-0"
          style="fill:none;stroke:#c3c3c3;stroke-width:1.79999971;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
-      <flowRoot
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
-         id="flowRoot3951-6-4-1-6-6-8-9-6-4"
-         xml:space="preserve"
-         transform="matrix(2.9026431,0,0,2.9026431,1292.858,-304.04851)"><flowRegion
-           id="flowRegion3953-6-2-2-6-5-9-0-0-1"><rect
-             style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
-             y="116.75244"
-             x="337.5"
-             height="133.50584"
-             width="170.53423"
-             id="rect3955-8-1-0-0-68-5-5-1-1" /></flowRegion><flowPara
-           id="flowPara5566">FTDI USB to Serial</flowPara><flowPara
-           id="flowPara5568">3.3v SPS</flowPara><flowPara
-           id="flowPara5570">RAM backup battery</flowPara></flowRoot>      <text
+      <text
          sodipodi:linespacing="125%"
          id="text3823-1-9-71"
          y="17.362"
          x="2520"
-         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book, Bold'"
+         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book, Bold'"
          xml:space="preserve"><tspan
            id="tspan5384"
-           sodipodi:role="line">GPS Breakout Bord</tspan></text>
+           sodipodi:role="line"
+           x="2520"
+           y="17.362">GPS Breakout Bord</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text5676-9-4-4"
+         y="62.362"
+         x="2272.5"
+         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
+         xml:space="preserve"><tspan
+           y="62.362"
+           x="2272.5"
+           id="tspan6311"
+           sodipodi:role="line">FTDI USB to Serial</tspan><tspan
+           y="99.862"
+           x="2272.5"
+           id="tspan6313"
+           sodipodi:role="line">3.3v SPS</tspan><tspan
+           y="137.362"
+           x="2272.5"
+           id="tspan6315"
+           sodipodi:role="line">RAM backup battery</tspan></text>
     </g>
     <g
-       id="g5419">
+       id="g6395">
       <rect
          y="242.36205"
          x="2250"
@@ -1472,33 +1417,37 @@
          width="540"
          id="rect2985-7-5-8-7-5-6-6"
          style="fill:none;stroke:#c3c3c3;stroke-width:1.79999983;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
-      <flowRoot
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
-         id="flowRoot3951-6-4-1-6-6-8-4"
-         xml:space="preserve"
-         transform="matrix(2.9026431,0,0,2.9026431,1292.858,-34.04851)"><flowRegion
-           id="flowRegion3953-6-2-2-6-5-9-6"><rect
-             style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
-             y="116.75244"
-             x="337.5"
-             height="133.50584"
-             width="170.53423"
-             id="rect3955-8-1-0-0-68-5-3" /></flowRegion><flowPara
-           id="flowPara5651">Hemisphere Crescent OEM</flowPara><flowPara
-           id="flowPara5653">12 Channel, 10 Hz update rate</flowPara></flowRoot>      <text
+      <text
          sodipodi:linespacing="125%"
          id="text3823-1-9-73"
          y="287.362"
          x="2520"
-         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book, Bold'"
+         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book, Bold'"
          xml:space="preserve"><tspan
            id="tspan5408"
-           sodipodi:role="line">COTS <tspan
+           sodipodi:role="line"
+           x="2520"
+           y="287.362">COTS <tspan
    style="fill:#e31d1d;fill-opacity:1"
    id="tspan5657">GPS</tspan> Receiver</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text5676-9-4-28"
+         y="332.362"
+         x="2272.5"
+         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
+         xml:space="preserve"><tspan
+           y="332.362"
+           x="2272.5"
+           id="tspan6326"
+           sodipodi:role="line">Hemisphere Crescent OEM</tspan><tspan
+           y="369.862"
+           x="2272.5"
+           id="tspan6328"
+           sodipodi:role="line">12 Channel, 10 Hz update rate</tspan></text>
     </g>
     <g
-       id="g5440">
+       id="g6404">
       <rect
          y="489.86206"
          x="2250"
@@ -1506,19 +1455,7 @@
          width="540"
          id="rect2985-7-5-8-7-5-6-2-0-2"
          style="fill:none;stroke:#c3c3c3;stroke-width:1.79999983;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
-      <flowRoot
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
-         id="flowRoot3951-6-4-1-6-6-8-9-6-1"
-         xml:space="preserve"
-         transform="matrix(2.9026431,0,0,2.9026431,1292.858,213.4515)"><flowRegion
-           id="flowRegion3953-6-2-2-6-5-9-0-0-7"><rect
-             style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
-             y="116.75244"
-             x="337.5"
-             height="133.50584"
-             width="170.53423"
-             id="rect3955-8-1-0-0-68-5-5-1-6" /></flowRegion><flowPara
-           id="flowPara5724">1.575 GHz</flowPara></flowRoot>      <text
+      <text
          sodipodi:linespacing="125%"
          id="text3823-1-9-45"
          y="534.862"
@@ -1529,9 +1466,20 @@
            x="2520"
            id="tspan5429"
            sodipodi:role="line">LNA</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text5676-9-4-0"
+         y="579.862"
+         x="2272.5"
+         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
+         xml:space="preserve"><tspan
+           y="579.862"
+           x="2272.5"
+           id="tspan6337"
+           sodipodi:role="line">1.575 GHz</tspan></text>
     </g>
     <g
-       id="g5546">
+       id="g6445">
       <rect
          y="197.362"
          x="1620"
@@ -1539,204 +1487,35 @@
          width="540"
          id="rect2985-7-5-8-7-5-6-02-5"
          style="fill:none;stroke:#c3c3c3;stroke-width:1.79999983;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
-      <flowRoot
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
-         id="flowRoot3951-6-4-1-6-6-8-47-7"
-         xml:space="preserve"
-         transform="matrix(2.9026431,0,0,2.9026431,662.85795,-79.04856)"><flowRegion
-           id="flowRegion3953-6-2-2-6-5-9-7-8"><rect
-             style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
-             y="116.75244"
-             x="337.5"
-             height="133.50584"
-             width="170.53423"
-             id="rect3955-8-1-0-0-68-5-39-2" /></flowRegion><flowPara
-           id="flowPara6126">1 Watt</flowPara><flowPara
-           id="flowPara6128">RF LINX 4900-5800 CA series</flowPara></flowRoot>      <text
+      <text
          sodipodi:linespacing="125%"
          id="text3823-1-9-3"
          y="242.362"
          x="1890"
-         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book, Bold'"
+         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book, Bold'"
          xml:space="preserve"><tspan
            id="tspan5533"
-           sodipodi:role="line">5 GHz Bidirectional PA</tspan></text>
-    </g>
-    <g
-       id="g5504">
-      <rect
-         y="-27.63796"
-         x="990"
-         height="157.49995"
-         width="540"
-         id="rect2985-7-5-8-7-5-6-2-0-6-6"
-         style="fill:none;stroke:#c3c3c3;stroke-width:1.79999983;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
-      <flowRoot
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
-         id="flowRoot3951-6-4-1-6-6-8-9-6-7-2"
-         xml:space="preserve"
-         transform="matrix(2.9026431,0,0,2.9026431,32.85795,-304.04851)"><flowRegion
-           id="flowRegion3953-6-2-2-6-5-9-0-0-8-0"><rect
-             style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
-             y="116.75244"
-             x="337.5"
-             height="133.50584"
-             width="170.53423"
-             id="rect3955-8-1-0-0-68-5-5-1-0-8" /></flowRegion><flowPara
-           id="flowPara7057">ZCOM ZCN-722M</flowPara><flowPara
-           id="flowPara7059">2.422 GHz (Channel 3)</flowPara></flowRoot>      <text
+           sodipodi:role="line"
+           x="1890"
+           y="242.362">5 GHz Bidirectional PA</tspan></text>
+      <text
          sodipodi:linespacing="125%"
-         id="text3823-1-9-1"
-         y="17.362"
-         x="1260"
-         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book, Bold'"
-         xml:space="preserve"><tspan
-           y="17.362"
-           x="1260"
-           id="tspan5460"
-           sodipodi:role="line">802.11a/b/n USB <tspan
-   style="fill:#e31d1d;fill-opacity:1"
-   id="tspan5661">WiFi </tspan>Card</tspan></text>
-    </g>
-    <g
-       id="g5537">
-      <rect
-         y="197.36205"
-         x="990"
-         height="179.99995"
-         width="540"
-         id="rect2985-7-5-8-7-5-6-02"
-         style="fill:none;stroke:#c3c3c3;stroke-width:1.79999983;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
-      <flowRoot
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
-         id="flowRoot3951-6-4-1-6-6-8-47"
-         xml:space="preserve"
-         transform="matrix(2.9026431,0,0,2.9026431,32.85795,-79.04851)"><flowRegion
-           id="flowRegion3953-6-2-2-6-5-9-7"><rect
-             style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
-             y="116.75244"
-             x="337.5"
-             height="133.50584"
-             width="170.53423"
-             id="rect3955-8-1-0-0-68-5-39" /></flowRegion><flowPara
-           id="flowPara6057">TODO Details</flowPara></flowRoot>      <text
-         sodipodi:linespacing="125%"
-         id="text3823-1-9-88"
-         y="242.362"
-         x="1260"
-         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book, Bold'"
-         xml:space="preserve"><tspan
-           y="242.362"
-           x="1260"
-           id="tspan5535"
-           sodipodi:role="line">2.4 GHz Bidirectional PA</tspan></text>
-    </g>
-    <g
-       id="g5590">
-      <rect
-         y="39.862049"
-         x="180"
-         height="134.99995"
-         width="540"
-         id="rect2985-7-5-8-7-5-6-2-0-21"
-         style="fill:none;stroke:#c3c3c3;stroke-width:1.79999983;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
-      <flowRoot
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
-         id="flowRoot3951-6-4-1-6-6-8-9-6-0"
-         xml:space="preserve"
-         transform="matrix(2.9026431,0,0,2.9026431,-777.14205,-236.54851)"><flowRegion
-           id="flowRegion3953-6-2-2-6-5-9-0-0-8"><rect
-             style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
-             y="116.75244"
-             x="337.5"
-             height="133.50584"
-             width="170.53423"
-             id="rect3955-8-1-0-0-68-5-5-1-8" /></flowRegion><flowPara
-           id="flowPara7177">TODO BQ Part</flowPara></flowRoot>      <text
-         sodipodi:linespacing="125%"
-         id="text3823-1-9-53"
-         y="84.862"
-         x="450"
-         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book, Bold'"
-         xml:space="preserve"><tspan
-           id="tspan5588"
-           sodipodi:role="line">Battery Interface Board</tspan></text>
-    </g>
-    <g
-       id="g5569">
-      <rect
-         y="242.36195"
-         x="180"
-         height="179.99995"
-         width="540"
-         id="rect2985-7-5-8-7-5"
-         style="fill:none;stroke:#c3c3c3;stroke-width:1.79999983;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
-      <flowRoot
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
-         id="flowRoot3951-6-4-1-6-6"
-         xml:space="preserve"
-         transform="matrix(2.9026431,0,0,2.9026431,-777.14205,-34.0487)"><flowRegion
-           id="flowRegion3953-6-2-2-6-5"><rect
-             style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
-             y="116.75244"
-             x="337.5"
-             height="133.50584"
-             width="170.53423"
-             id="rect3955-8-1-0-0-68" /></flowRegion><flowPara
-           id="flowPara5485">4S;1P pack 4.2V 4Ah Li-Ion batteries</flowPara><flowPara
-           id="flowPara5487">~30 Watt-hours</flowPara></flowRoot>      <text
-         sodipodi:linespacing="125%"
-         id="text3823-1-9-2"
+         id="text5676-9-4-28-1"
          y="287.362"
-         x="450"
-         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book, Bold'"
+         x="1642.5"
+         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
          xml:space="preserve"><tspan
            y="287.362"
-           x="450"
-           id="tspan5556"
-           sodipodi:role="line">4 Cell <tspan
-   style="fill:#e31d1d;fill-opacity:1"
-   id="tspan5663">Battery Pack</tspan></tspan></text>
+           x="1642.5"
+           id="tspan6441"
+           sodipodi:role="line">1 Watt</tspan><tspan
+           y="324.862"
+           x="1642.5"
+           id="tspan6443"
+           sodipodi:role="line">RF LINX 4900-5800 CA series</tspan></text>
     </g>
     <g
-       id="g5613">
-      <rect
-         y="-725.138"
-         x="270"
-         height="222.76434"
-         width="720"
-         id="rect2985-7-9-6"
-         style="fill:none;stroke:#c3c3c3;stroke-width:2.25;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
-      <flowRoot
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
-         id="flowRoot3951-6-61-2"
-         xml:space="preserve"
-         transform="matrix(2.9026431,0,0,2.9026431,-687.14205,-981.28416)"><flowRegion
-           id="flowRegion3953-6-5-8"><rect
-             style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
-             y="116.75244"
-             x="337.5"
-             height="86.996521"
-             width="232.54668"
-             id="rect3955-8-06-0" /></flowRegion><flowPara
-           id="flowPara7242">STM32 ARM Cortex M4 Microcontroller</flowPara><flowPara
-           id="flowPara7244">KSZ8999 Ethernet Switch</flowPara><flowPara
-           id="flowPara7246">Routes power and data to whole rocket</flowPara></flowRoot>      <text
-         sodipodi:linespacing="125%"
-         id="text3823-1-9-9"
-         y="-657.638"
-         x="630"
-         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book, Bold'"
-         xml:space="preserve"><tspan
-           y="-657.638"
-           x="630"
-           id="tspan5611"
-           sodipodi:role="line">RocketNet Hub <tspan
-   style="fill:#e31d1d;fill-opacity:1"
-   id="tspan5651">Power and Data</tspan></tspan></text>
-    </g>
-    <g
-       id="g5483">
+       id="g6424">
       <rect
          y="-27.638"
          x="1620"
@@ -1744,20 +1523,7 @@
          width="540"
          id="rect2985-7-5-8-7-5-6-2-0-6-6-3"
          style="fill:none;stroke:#c3c3c3;stroke-width:1.79999983;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
-      <flowRoot
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
-         id="flowRoot3951-6-4-1-6-6-8-9-6-7-2-4"
-         xml:space="preserve"
-         transform="matrix(2.9026431,0,0,2.9026431,662.85795,-304.04855)"><flowRegion
-           id="flowRegion3953-6-2-2-6-5-9-0-0-8-0-0"><rect
-             style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
-             y="116.75244"
-             x="337.5"
-             height="133.50584"
-             width="170.53423"
-             id="rect3955-8-1-0-0-68-5-5-1-0-8-5" /></flowRegion><flowPara
-           id="flowPara5972">TODO: Alpha part n#</flowPara><flowPara
-           id="flowPara5974">5.180 GHz (Channel 36)</flowPara></flowRoot>      <text
+      <text
          sodipodi:linespacing="125%"
          id="text3823-1-9-1-2"
          y="17.362"
@@ -1770,6 +1536,282 @@
            y="17.362">802.11a/b/n USB <tspan
    style="fill:#e31d1d;fill-opacity:1"
    id="tspan5659">WiFi </tspan>Card</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text5676-9-4-28-2"
+         y="62.362"
+         x="1642.5"
+         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
+         xml:space="preserve"><tspan
+           y="62.362"
+           x="1642.5"
+           id="tspan6420"
+           sodipodi:role="line">TODO: Alpha part #</tspan><tspan
+           y="99.862"
+           x="1642.5"
+           id="tspan6422"
+           sodipodi:role="line">5.180 GHz (Channel 36)</tspan></text>
+    </g>
+    <rect
+       style="fill:none;stroke:#c3c3c3;stroke-width:1.79999983;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect2985-7-5-8-7-5-6-9-5"
+       width="540"
+       height="179.99995"
+       x="-742.5"
+       y="827.36194" />
+    <text
+       xml:space="preserve"
+       style="font-size:30px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book, Bold'"
+       x="-472.5"
+       y="872.36194"
+       id="text3823-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3825-1"
+         x="-472.5"
+         y="872.36194">Rocket Ground <tspan
+   id="tspan4922-7"
+   style="fill:#e31d1d;fill-opacity:1">Umbilical</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
+       x="-720"
+       y="917.36194"
+       id="text5676-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5680-8"
+         x="-720"
+         y="917.36194">~19V shore power</tspan><tspan
+         sodipodi:role="line"
+         id="tspan5682-7"
+         x="-720"
+         y="954.86194">Launch relay interlock (Rocket Ready)</tspan></text>
+    <g
+       id="g6619">
+      <rect
+         y="-27.63796"
+         x="990"
+         height="157.49995"
+         width="540"
+         id="rect2985-7-5-8-7-5-6-2-0-6-6"
+         style="fill:none;stroke:#c3c3c3;stroke-width:1.79999983;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3823-1-9-1"
+         y="17.362"
+         x="1260"
+         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book, Bold'"
+         xml:space="preserve"><tspan
+           y="17.362"
+           x="1260"
+           id="tspan5460"
+           sodipodi:role="line">802.11a/b/n USB <tspan
+   style="fill:#e31d1d;fill-opacity:1"
+   id="tspan5661">WiFi </tspan>Card</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text5676-8-2"
+         y="62.362"
+         x="1012.5"
+         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
+         xml:space="preserve"><tspan
+           y="62.362"
+           x="1012.5"
+           id="tspan6615"
+           sodipodi:role="line">ZCOM ZCN-722M</tspan><tspan
+           y="99.862"
+           x="1012.5"
+           id="tspan6617"
+           sodipodi:role="line">2.422 GHz (Channel 3)</tspan></text>
+    </g>
+    <g
+       id="g6637">
+      <rect
+         y="197.36205"
+         x="990"
+         height="179.99995"
+         width="540"
+         id="rect2985-7-5-8-7-5-6-02"
+         style="fill:none;stroke:#c3c3c3;stroke-width:1.79999983;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3823-1-9-88"
+         y="242.362"
+         x="1260"
+         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book, Bold'"
+         xml:space="preserve"><tspan
+           y="242.362"
+           x="1260"
+           id="tspan5535"
+           sodipodi:role="line">2.4 GHz Bidirectional PA</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text5676-8-3"
+         y="287.362"
+         x="1012.5"
+         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
+         xml:space="preserve"><tspan
+           id="tspan6635"
+           sodipodi:role="line">TODO: Details</tspan></text>
+    </g>
+    <g
+       id="g6698">
+      <rect
+         y="39.862049"
+         x="180"
+         height="134.99995"
+         width="540"
+         id="rect2985-7-5-8-7-5-6-2-0-21"
+         style="fill:none;stroke:#c3c3c3;stroke-width:1.79999983;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3823-1-9-53"
+         y="84.862"
+         x="450"
+         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book, Bold'"
+         xml:space="preserve"><tspan
+           id="tspan5588"
+           sodipodi:role="line"
+           x="450"
+           y="84.862">Battery Interface Board</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text5676-8-8"
+         y="129.862"
+         x="202.5"
+         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
+         xml:space="preserve"><tspan
+           id="tspan6675"
+           sodipodi:role="line"
+           x="202.5"
+           y="129.862">TODO: BQ part#</tspan></text>
+    </g>
+    <g
+       id="g6720">
+      <rect
+         y="242.36195"
+         x="180"
+         height="179.99995"
+         width="540"
+         id="rect2985-7-5-8-7-5"
+         style="fill:none;stroke:#c3c3c3;stroke-width:1.79999983;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3823-1-9-2"
+         y="287.362"
+         x="450"
+         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book, Bold'"
+         xml:space="preserve"><tspan
+           y="287.362"
+           x="450"
+           id="tspan5556"
+           sodipodi:role="line">4 Cell <tspan
+   style="fill:#e31d1d;fill-opacity:1"
+   id="tspan5663">Battery Pack</tspan></tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text5676-8-27"
+         y="332.362"
+         x="202.5"
+         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
+         xml:space="preserve"><tspan
+           y="332.362"
+           x="202.5"
+           id="tspan6714"
+           sodipodi:role="line">4S;1P pack 4.2V 4Ah Li-Ion batteries</tspan><tspan
+           y="369.862"
+           x="202.5"
+           id="tspan6716"
+           sodipodi:role="line">~30 Watt-hours</tspan></text>
+    </g>
+    <g
+       id="g6769">
+      <rect
+         y="-725.138"
+         x="270"
+         height="222.76434"
+         width="720"
+         id="rect2985-7-9-6"
+         style="fill:none;stroke:#c3c3c3;stroke-width:2.25;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3823-1-9-9"
+         y="-657.638"
+         x="630"
+         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book, Bold'"
+         xml:space="preserve"><tspan
+           y="-657.638"
+           x="630"
+           id="tspan5611"
+           sodipodi:role="line">RocketNet Hub <tspan
+   style="fill:#e31d1d;fill-opacity:1"
+   id="tspan5651">Power and Data</tspan></tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text5676-8-0"
+         y="-612.638"
+         x="292.5"
+         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
+         xml:space="preserve"><tspan
+           y="-612.638"
+           x="292.5"
+           id="tspan6763"
+           sodipodi:role="line">STM32 ARM Cortex M4 Microcontroller</tspan><tspan
+           y="-575.138"
+           x="292.5"
+           id="tspan6765"
+           sodipodi:role="line">KSZ8999 Ethernet Switch</tspan><tspan
+           y="-537.638"
+           x="292.5"
+           id="tspan6767"
+           sodipodi:role="line">Routes power and data to whole rocket</tspan></text>
+    </g>
+    <g
+       id="g6830">
+      <rect
+         y="-497.90237"
+         x="1440"
+         height="290.26437"
+         width="720"
+         id="rect2985-7-9"
+         style="fill:#f5f5f5;fill-opacity:1;stroke:#c3c3c3;stroke-width:2.25;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3823-1-9-7"
+         y="-432.638"
+         x="1800"
+         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book, Bold'"
+         xml:space="preserve"><tspan
+           y="-432.638"
+           x="1800"
+           id="tspan5637"
+           sodipodi:role="line">Intel Atom N455 PCI-104 <tspan
+   style="fill:#e31d1d;fill-opacity:1"
+   id="tspan5665">Computer</tspan></tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text5676-8-7"
+         y="-387.638"
+         x="1462.5"
+         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
+         xml:space="preserve"><tspan
+           y="-387.638"
+           x="1462.5"
+           id="tspan6822"
+           sodipodi:role="line">1.6 GHz x86_64 processor</tspan><tspan
+           y="-350.138"
+           x="1462.5"
+           id="tspan6824"
+           sodipodi:role="line">1 G RAM</tspan><tspan
+           y="-312.638"
+           x="1462.5"
+           id="tspan6826"
+           sodipodi:role="line">Debian Linux - 3.5.3 kernel</tspan><tspan
+           y="-275.138"
+           x="1462.5"
+           id="tspan6828"
+           sodipodi:role="line">Project Elderberry FC Framework</tspan></text>
     </g>
   </g>
 </svg>
