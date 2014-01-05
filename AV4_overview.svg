@@ -728,10 +728,10 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.25612979"
-     inkscape:cx="1584.1104"
-     inkscape:cy="1350"
-     inkscape:document-units="px"
+     inkscape:zoom="0.33801124"
+     inkscape:cx="1610.3849"
+     inkscape:cy="1494.0594"
+     inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="true"
      borderlayer="true"
@@ -765,7 +765,7 @@
        id="grid4155"
        empspacing="1"
        visible="true"
-       enabled="true"
+       enabled="false"
        snapvisiblegridlinesonly="true"
        spacingx="0.25in"
        spacingy="0.25in"
@@ -774,7 +774,7 @@
        color="#f000ff"
        opacity="0"
        empcolor="#f000ff"
-       empopacity="0.04705882" />
+       empopacity="0" />
     <sodipodi:guide
        position="180,2520"
        orientation="2340,0"
@@ -791,6 +791,18 @@
        position="3060,2520"
        orientation="0,-2880"
        id="guide13459" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="1260,2362.5"
+       id="guide4915" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="1620,900"
+       id="guide5056" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="0,1350"
+       id="guide5058" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -800,7 +812,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -823,27 +835,27 @@
          y="30.280375" /></text>
     <text
        xml:space="preserve"
-       style="font-size:72.56607819px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book, Bold'"
+       style="font-size:72px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book, Bold'"
        x="180"
-       y="-1377.6379"
+       y="-1400.1379"
        id="text6018-5"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan12639"
          x="180"
-         y="-1377.6379">AV4 - Flight Computer</tspan></text>
+         y="-1400.1379">AV4 - Flight Computer</tspan></text>
     <rect
-       style="fill:#f5f5f5;fill-opacity:1;stroke:#c3c3c3;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       style="fill:#f5f5f5;fill-opacity:1;stroke:#c3c3c3;stroke-width:2.25;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect2985-7-9"
-       width="695.97583"
+       width="720"
        height="290.26437"
-       x="122.60567"
-       y="-361.71307" />
+       x="1260"
+       y="-317.90237" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot3951-9"
        style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book, Bold'"
-       transform="matrix(2.9026431,0,0,2.9026431,-820.75336,-686.80896)"><flowRegion
+       transform="matrix(2.9026431,0,0,2.9026431,330.31939,-635.06831)"><flowRegion
          id="flowRegion3953-07"><rect
            id="rect3955-6"
            width="238.61647"
@@ -854,14 +866,14 @@
          id="flowPara5414">Intel Atom N455 PCI-104 <flowSpan
    style="fill:#e31d1d;fill-opacity:1"
    id="flowSpan7677">Computer</flowSpan></flowPara></flowRoot>    <flowRoot
-       transform="matrix(2.9026431,0,0,2.9026431,-828.00997,-628.03746)"
+       transform="matrix(2.9026431,0,0,2.9026431,302.85795,-574.04853)"
        xml:space="preserve"
        id="flowRoot3951-6-61"
        style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"><flowRegion
          id="flowRegion3953-6-5"><rect
            id="rect3955-8-06"
-           width="165"
-           height="55"
+           width="232.54668"
+           height="86.996521"
            x="337.5"
            y="116.75244"
            style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'" /></flowRegion><flowPara
@@ -1013,20 +1025,20 @@
            y="116.75244"
            style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'" /></flowRegion><flowPara
          id="flowPara5723" /></flowRoot>    <g
-       id="g3270"
-       transform="matrix(2.9026431,0,0,2.9026431,92.920716,-2424.9705)">
+       id="g4933"
+       transform="translate(1.25e-6,89.999995)">
       <rect
-         y="527.36218"
-         x="325"
-         height="57.436375"
-         width="175"
+         y="-1287.6379"
+         x="1080"
+         height="179.99995"
+         width="540"
          id="rect2985-7-5-8-7-5"
-         style="fill:none;stroke:#c3c3c3;stroke-width:0.34451357;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+         style="fill:none;stroke:#c3c3c3;stroke-width:1.79999983;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
       <flowRoot
          style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book, Bold'"
          id="flowRoot3951-8-0-4-8"
          xml:space="preserve"
-         transform="translate(3e-5,415.36222)"><flowRegion
+         transform="matrix(2.9026431,0,0,2.9026431,152.65972,-1625.0683)"><flowRegion
            id="flowRegion3953-9-2-3-8"><rect
              style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book, Bold'"
              y="122"
@@ -1040,13 +1052,13 @@
          style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
          id="flowRoot3951-6-4-1-6-6"
          xml:space="preserve"
-         transform="translate(-2.49997,435.60978)"><flowRegion
+         transform="matrix(2.9026431,0,0,2.9026431,122.85795,-1564.0485)"><flowRegion
            id="flowRegion3953-6-2-2-6-5"><rect
              style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
              y="116.75244"
              x="337.5"
-             height="24.999998"
-             width="165"
+             height="133.50584"
+             width="170.53423"
              id="rect3955-8-1-0-0-68" /></flowRegion><flowPara
            id="flowPara5616">4S;1P pack of 4.2V 4Ah Li-ion batteries</flowPara></flowRoot>    </g>
     <rect
@@ -1207,31 +1219,31 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:none;stroke:#709afa;stroke-width:2.99999976;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 746.01542,218.81552 0,-72.56607 -319.29074,0 0,-217.698241"
+       style="fill:none;stroke:#709afa;stroke-width:4.5;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 746.01545,218.81551 0,-61.61336 783.98455,0 0,-184.840153"
        id="path5880-3-9"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
     <path
-       style="fill:none;stroke:#709afa;stroke-width:2.99999976;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 1399.1101,218.81552 0,-101.59251 -943.35899,0 0,-188.671801"
+       style="fill:none;stroke:#709afa;stroke-width:4.5;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 1399.1101,218.81551 0,-86.25873 220.8899,0 0,-160.194783"
        id="path5880-3-9-9"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
     <text
        xml:space="preserve"
-       style="font-size:52.24757385px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
-       x="490.58279"
-       y="99.80719"
+       style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
+       x="1440"
+       y="62.362"
        id="text6018-5-6"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan6502"
-         x="490.58279"
-         y="99.80719">USB</tspan></text>
+         x="1440"
+         y="62.362">USB</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:52.24757385px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
+       style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
        x="2327.9558"
        y="-373.32367"
        id="text6018-5-6-2"
@@ -1241,21 +1253,20 @@
          x="2327.9558"
          y="-373.32367">Ethernet</tspan></text>
     <g
-       id="g4404"
-       style="stroke:#e31d1d;stroke-width:0.3445136;stroke-opacity:1"
-       transform="matrix(2.9026431,0,0,2.9026431,34.867856,-2182.7217)">
+       id="g4919"
+       transform="matrix(0.0477672,0,0,0.22195432,572.18075,-789.5669)">
       <path
          sodipodi:nodetypes="cccc"
          inkscape:connector-curvature="0"
          id="path5880-8-9-8-7"
-         d="m 195,402.36218 c 0,39.41316 10,60 25,90 m 55,60 c 46.51534,39.04057 130,55 130,125"
-         style="fill:none;stroke:#e31d1d;stroke-width:1.03354073;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+         d="m 600.88326,-1014.8079 c 0,114.40234 29.02643,174.15859 72.56608,261.23788 m 159.64537,174.15859 c 135.01743,113.32084 377.34359,159.64537 377.34359,362.83039"
+         style="fill:none;stroke:#e31d1d;stroke-width:43.70345688;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
       <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path6527"
-         d="m 220,492.36218 c 20,35 55,60 55,60"
-         style="fill:none;stroke:#e31d1d;stroke-width:1.03354073;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1.03354078, 2.06708155;stroke-dashoffset:0" />
+         d="m 673.44934,-753.57002 c 58.05286,101.59251 159.64537,174.15859 159.64537,174.15859"
+         style="fill:none;stroke:#e31d1d;stroke-width:43.70345688;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:43.703458, 174.81383202;stroke-dashoffset:0" />
     </g>
     <path
        style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:4.00000001, 1.99999999, 0.99999999, 1.99999999;stroke-dashoffset:0;marker-end:url(#Arrow1Mend-55)"
@@ -1271,7 +1282,7 @@
        sodipodi:nodetypes="cc" />
     <text
        xml:space="preserve"
-       style="font-size:52.24757385px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
+       style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
        x="978.22693"
        y="799.34418"
        id="text6018-5-6-2-8"
@@ -1288,15 +1299,15 @@
        sodipodi:nodetypes="cc" />
     <text
        xml:space="preserve"
-       style="font-size:55.15021896px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Light;-inkscape-font-specification:'Futura LT Light,'"
+       style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Light;-inkscape-font-specification:'Futura LT Light,'"
        x="180"
-       y="-1305.0719"
+       y="-1310.1379"
        id="text6018-5-7"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan12641"
          x="180"
-         y="-1305.0719">Summer 2014</tspan></text>
+         y="-1310.1379">Summer 2014</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:none;marker-end:url(#Arrow1Mend)"
        d="m 2545.6541,-722.36646 0,-72.5661"
@@ -1316,17 +1327,17 @@
            y="116.75244"
            style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'" /></flowRegion><flowPara
          id="flowPara4519" /></flowRoot>    <path
-       style="fill:none;stroke:#709afa;stroke-width:2.99999976;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:none;stroke:#709afa;stroke-width:4.5;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        d="m 2545.6541,-579.41136 0,217.69826 -624.0682,0"
        id="path5880-3-9-9-0"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc" />
     <path
-       style="fill:none;stroke:#709afa;stroke-width:2.99999976;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 1892.5594,-579.41136 0,72.5661 -159.6453,0 0,72.5661"
+       style="fill:none;stroke:#709afa;stroke-width:4.5;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 1892.5594,-579.41136 0,72.5661"
        id="path5880-3-9-9-9"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccc" />
+       sodipodi:nodetypes="cc" />
     <rect
        style="fill:none;stroke:#c3c3c3;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect2985-7-5-4-1-6-3-0"
@@ -1346,5 +1357,75 @@
            x="325"
            y="122"
            style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book, Bold'" /></flowRegion><flowPara
-         id="flowPara4611">Roll Servo</flowPara></flowRoot>  </g>
+         id="flowPara4611">Roll Servo</flowPara></flowRoot>    <g
+       transform="translate(-1800,2070)"
+       id="g4933-6">
+      <rect
+         y="-1287.6379"
+         x="1080"
+         height="179.99995"
+         width="540"
+         id="rect2985-7-5-8-7-5-6"
+         style="fill:none;stroke:#c3c3c3;stroke-width:1.79999983;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <flowRoot
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book, Bold'"
+         id="flowRoot3951-8-0-4-8-0"
+         xml:space="preserve"
+         transform="matrix(2.9026431,0,0,2.9026431,152.65972,-1625.0683)"><flowRegion
+           id="flowRegion3953-9-2-3-8-5"><rect
+             style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book, Bold'"
+             y="122"
+             x="325"
+             height="20"
+             width="175"
+             id="rect3955-87-4-0-4-9" /></flowRegion><flowPara
+           id="flowPara5618-2">16.8V 4Ah <flowSpan
+   id="flowSpan7681-6"
+   style="fill:#e31d1d;fill-opacity:1">Battery Pack</flowSpan></flowPara></flowRoot>      <flowRoot
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
+         id="flowRoot3951-6-4-1-6-6-8"
+         xml:space="preserve"
+         transform="matrix(2.9026431,0,0,2.9026431,122.85795,-1564.0485)"><flowRegion
+           id="flowRegion3953-6-2-2-6-5-9"><rect
+             style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
+             y="116.75244"
+             x="337.5"
+             height="133.50584"
+             width="170.53423"
+             id="rect3955-8-1-0-0-68-5" /></flowRegion><flowPara
+           id="flowPara5616-9">4S;1P pack of 4.2V 4Ah Li-ion batteries</flowPara></flowRoot>    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
+       x="-405"
+       y="714.862"
+       id="text6018-5-6-2-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6525-4"
+         x="-405"
+         y="714.862">Ethernet</tspan></text>
+    <path
+       style="fill:none;stroke:#709afa;stroke-width:4.5;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m -187.30171,508.77427 0,217.6983 -624.0682,0"
+       id="path5880-3-9-9-0-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <g
+       transform="translate(-1660.4383,773.94304)"
+       id="g4919-9">
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path5880-8-9-8-7-8"
+         d="m 600.88326,-1014.8079 c 0,114.40234 29.02643,174.15859 72.56608,261.23788 m 159.64537,174.15859 c 135.01743,113.32084 377.34359,159.64537 377.34359,362.83039"
+         style="fill:none;stroke:#e31d1d;stroke-width:4.5;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path6527-4"
+         d="m 673.44934,-753.57002 c 58.05286,101.59251 159.64537,174.15859 159.64537,174.15859"
+         style="fill:none;stroke:#e31d1d;stroke-width:4.5;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:4.5, 18;stroke-dashoffset:0" />
+    </g>
+  </g>
 </svg>
