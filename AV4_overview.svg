@@ -742,9 +742,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.36222222"
-     inkscape:cx="1178.2822"
-     inkscape:cy="1446.6258"
+     inkscape:zoom="0.25612979"
+     inkscape:cx="1620"
+     inkscape:cy="1350"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -779,7 +779,7 @@
        id="grid4155"
        empspacing="1"
        visible="true"
-       enabled="true"
+       enabled="false"
        snapvisiblegridlinesonly="true"
        spacingx="0.25in"
        spacingy="0.25in"
@@ -1661,6 +1661,12 @@
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#709afa;stroke-width:4.5;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 990,-680.138 90,0 c 0,0 0,-45 0,-168.75 0,-123.75 -247.5,-56.25 -315,-56.25 m -67.5,0 c -112.5,0 -247.5,112.5 -247.5,-28.125 l 0,-84.375"
+       id="path7348-1-9-76"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cczcccc" />
+    <path
+       style="fill:none;stroke:#709afa;stroke-width:4.5;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        d="m 990,-635.138 1170,0 0,-67.5"
        id="path7346"
        inkscape:connector-curvature="0" />
@@ -1699,12 +1705,6 @@
        d="m -877.5,624.862 540,0 0,-180"
        id="path7348-0-3"
        inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#709afa;stroke-width:4.5;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-       d="m 990,-680.138 90,0 c 0,0 0,0 0,-168.75 0,-168.75 -623.13634,61.60869 -630,-84.375 l 0,-84.375"
-       id="path7348-1"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cczcc" />
     <g
        id="g6166"
        transform="translate(180,-180)">
@@ -1759,10 +1759,10 @@
        sodipodi:nodetypes="cccc" />
     <path
        style="fill:none;stroke:#e31d1d;stroke-width:4.5;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:18, 36;stroke-dashoffset:0"
-       d="m 990,-680.138 90,0 c 0,0 0,0 0,-168.75 0,-168.75 -623.13634,61.60866 -630,-84.375 l 0,-84.375"
+       d="m 990,-680.138 90,0 c 0,0 0,-45 0,-168.75 0,-123.75 -247.5,-56.25 -315,-56.25 m -67.5,0 c -112.5,0 -247.5,112.5 -247.5,-28.125 l 0,-84.375"
        id="path7348-1-9"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cczcc" />
+       sodipodi:nodetypes="cczcccc" />
     <path
        style="fill:none;stroke:#e31d1d;stroke-width:4.5;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        d="m 990,1125 90,0 0,247.5 -630,0 0,315"
@@ -1816,12 +1816,12 @@
          id="rect2985-7-5-8-7-5-6-2-14"
          style="fill:none;stroke:#c3c3c3;stroke-width:1.79999983;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
       <flowRoot
-         style="font-size:9.9999997px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book, Bold'"
+         style="font-size:9.99999970000000005px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:middle;fill:#e31d1d;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book, Bold'"
          id="flowRoot3951-8-0-4-8-0-6-3"
          xml:space="preserve"
          transform="matrix(2.9026431,0,0,2.9026431,152.65972,-1085.0683)"><flowRegion
            id="flowRegion3953-9-2-3-8-5-5-6"><rect
-             style="font-size:9.9999997px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr;text-anchor:middle;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book, Bold'"
+             style="font-size:9.99999970000000005px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr;text-anchor:middle;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book, Bold';fill:#e31d1d;fill-opacity:1"
              y="122"
              x="325"
              height="20"
@@ -1856,5 +1856,17 @@
        d="m 990,-657.638 540,0 0,-270"
        id="path7348-0-3-0"
        inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2.25;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 687.5,-864.138 22.5,-67.5 22.5,22.5 22.5,-67.5"
+       id="path9232-8-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2.25;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 707.5,-827.638 22.5,-67.5 22.5,22.5 22.5,-67.5"
+       id="path9232-8-5-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
   </g>
 </svg>
