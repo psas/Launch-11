@@ -743,8 +743,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.36222222"
-     inkscape:cx="1620"
-     inkscape:cy="1350"
+     inkscape:cx="1733.1902"
+     inkscape:cy="1476.9939"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -755,7 +755,7 @@
      inkscape:window-x="1280"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     showguides="true"
+     showguides="false"
      inkscape:guide-bbox="true"
      units="in"
      guidecolor="#ff0081"
@@ -764,7 +764,7 @@
        type="xygrid"
        id="grid3949"
        empspacing="4"
-       visible="true"
+       visible="false"
        enabled="true"
        snapvisiblegridlinesonly="true"
        spacingx="1in"
@@ -912,7 +912,7 @@
            style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'" /></flowRegion><flowPara
          id="flowPara5723" /></flowRoot>    <g
        id="g5489"
-       transform="translate(157.5,90.000095)">
+       transform="translate(337.5,9.4613203e-5)">
       <rect
          y="-1197.6379"
          x="922.5"
@@ -948,41 +948,13 @@
              id="rect3955-8-1-0-0-68" /></flowRegion><flowPara
            id="flowPara5485">4S;1P pack 4.2V 4Ah Li-Ion batteries</flowPara><flowPara
            id="flowPara5487">~30 Watt-hours</flowPara></flowRoot>    </g>
-    <rect
-       style="fill:none;stroke:#c3c3c3;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-       id="rect2985-7-5-4-1-4"
-       width="608.6142"
-       height="198.70917"
-       x="238.05286"
-       y="-1213.5168" />
-    <flowRoot
-       transform="matrix(3.2127571,0,0,2.9026431,-799.10272,-1516.0072)"
-       xml:space="preserve"
-       id="flowRoot3951-8-4-5-4"
-       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book, Bold'"><flowRegion
-         id="flowRegion3953-9-36-9-9"><rect
-           id="rect3955-87-28-6-17"
-           width="175"
-           height="20"
-           x="325"
-           y="122"
-           style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book, Bold'" /></flowRegion><flowPara
-         id="flowPara5444">Rocket <flowSpan
-   id="flowSpan7737"
-   style="fill:#e31d1d;fill-opacity:1">Umbilical</flowSpan></flowPara></flowRoot>    <flowRoot
-       transform="matrix(3.2127571,0,0,2.9026431,-807.13459,-1457.2357)"
-       xml:space="preserve"
-       id="flowRoot3951-6-4-3-6-6"
-       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"><flowRegion
-         id="flowRegion3953-6-2-5-8-2"><rect
-           id="rect3955-8-1-0-9-4"
-           width="165"
-           height="24.999998"
-           x="337.5"
-           y="116.75244"
-           style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'" /></flowRegion><flowPara
-         id="flowPara3296">~19V shore power</flowPara><flowPara
-         id="flowPara3299">Launch relay interlock (Rocket Ready)</flowPara></flowRoot>    <path
+    <path
+       style="fill:none;stroke:#e31d1d;stroke-width:4.5;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 990,-522.638 45,0 0,810 45,0"
+       id="path7348-0-3-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
        style="fill:none;stroke:#709afa;stroke-width:4.5;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        d="m 719.99998,-27.637999 0,-112.500001 607.50002,0 0,-45"
        id="path5880-3-9"
@@ -1005,33 +977,6 @@
          id="tspan6502"
          x="1239.5"
          y="-89.138">USB</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
-       x="2327.9558"
-       y="-373.32367"
-       id="text6018-5-6-2"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan6525"
-         x="2327.9558"
-         y="-373.32367">Ethernet</tspan></text>
-    <g
-       id="g4919"
-       transform="matrix(0.0477672,0,0,0.22195432,572.18075,-789.5669)">
-      <path
-         sodipodi:nodetypes="cccc"
-         inkscape:connector-curvature="0"
-         id="path5880-8-9-8-7"
-         d="m 600.88326,-1014.8079 c 0,114.40234 29.02643,174.15859 72.56608,261.23788 m 159.64537,174.15859 c 135.01743,113.32084 377.34359,159.64537 377.34359,362.83039"
-         style="fill:none;stroke:#e31d1d;stroke-width:43.70345688;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-      <path
-         sodipodi:nodetypes="cc"
-         inkscape:connector-curvature="0"
-         id="path6527"
-         d="m 673.44934,-753.57002 c 58.05286,101.59251 159.64537,174.15859 159.64537,174.15859"
-         style="fill:none;stroke:#e31d1d;stroke-width:43.70345688;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:43.703458, 174.81383202;stroke-dashoffset:0" />
-    </g>
     <path
        style="fill:none;stroke:#000000;stroke-width:6.74999952;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:13.49999981, 6.7499999, 3.37499995, 6.7499999;stroke-dashoffset:0;marker-start:url(#Arrow1Mstart-8);marker-end:url(#Arrow1Mend-55)"
        d="m 1350,377.36199 0,404.99999"
@@ -1084,13 +1029,7 @@
            x="337.5"
            y="116.75244"
            style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'" /></flowRegion><flowPara
-         id="flowPara4519" /></flowRoot>    <path
-       style="fill:none;stroke:#709afa;stroke-width:4.5;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 2545.6541,-455.138 0,93.4249 -624.0682,0"
-       id="path5880-3-9-9-0"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccc" />
-    <g
+         id="flowPara4519" /></flowRoot>    <g
        transform="translate(-1800,2070)"
        id="g4933-6">
       <rect
@@ -1144,22 +1083,18 @@
        id="path5880-3-9-9-0-7"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc" />
-    <g
-       transform="translate(-1660.4383,773.94304)"
-       id="g4919-9">
-      <path
-         sodipodi:nodetypes="cccc"
-         inkscape:connector-curvature="0"
-         id="path5880-8-9-8-7-8"
-         d="m 600.88326,-1014.8079 c 0,114.40234 29.02643,174.15859 72.56608,261.23788 m 159.64537,174.15859 c 135.01743,113.32084 377.34359,159.64537 377.34359,362.83039"
-         style="fill:none;stroke:#e31d1d;stroke-width:4.5;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-      <path
-         sodipodi:nodetypes="cc"
-         inkscape:connector-curvature="0"
-         id="path6527-4"
-         d="m 673.44934,-753.57002 c 58.05286,101.59251 159.64537,174.15859 159.64537,174.15859"
-         style="fill:none;stroke:#e31d1d;stroke-width:4.5;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:4.5, 18;stroke-dashoffset:0" />
-    </g>
+    <path
+       style="fill:none;stroke:#e31d1d;stroke-width:4.5;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m -1059.555,-240.86486 c 0,114.40234 29.0264,174.15859 72.56604,261.23788 m 159.64537,174.15859 C -692.32616,307.85245 -450,354.17698 -450,557.362"
+       id="path5880-8-9-8-7-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:none;stroke:#e31d1d;stroke-width:4.5;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:4.5, 18;stroke-dashoffset:0"
+       d="m -986.98896,20.37302 c 58.05286,101.59251 159.64537,174.15859 159.64537,174.15859"
+       id="path6527-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
     <g
        id="g5135"
        transform="translate(810,-90.00006)">
@@ -1446,10 +1381,9 @@
              id="rect3955-8-1-0-0-68-5-5-1-6" /></flowRegion><flowPara
            id="flowPara5724">1.575 GHz</flowPara></flowRoot>    </g>
     <g
-       id="g5898"
-       transform="translate(0,-180)">
+       id="g7061">
       <rect
-         y="152.36205"
+         y="-27.637955"
          x="1710"
          height="157.49995"
          width="540"
@@ -1459,7 +1393,7 @@
          style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book, Bold'"
          id="flowRoot3951-8-0-4-8-0-6-6-6-2"
          xml:space="preserve"
-         transform="matrix(2.9026431,0,0,2.9026431,782.65972,-185.0683)"><flowRegion
+         transform="matrix(2.9026431,0,0,2.9026431,782.65972,-365.0683)"><flowRegion
            id="flowRegion3953-9-2-3-8-5-5-9-6-5"><rect
              style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book, Bold'"
              y="122"
@@ -1468,19 +1402,19 @@
              width="175"
              id="rect3955-87-4-0-4-9-8-9-2-2" /></flowRegion><flowPara
            id="flowPara5892">802.11a/b/n USB WiFi Card</flowPara></flowRoot>      <flowRoot
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
+         style="font-size:9.9999997px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
          id="flowRoot3951-6-4-1-6-6-8-9-6-7-2"
          xml:space="preserve"
-         transform="matrix(2.9026431,0,0,2.9026431,752.85795,-124.0485)"><flowRegion
+         transform="matrix(2.9026431,0,0,2.9026431,752.85795,-304.0485)"><flowRegion
            id="flowRegion3953-6-2-2-6-5-9-0-0-8-0"><rect
-             style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
+             style="font-size:9.9999997px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr;text-anchor:start;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
              y="116.75244"
              x="337.5"
              height="133.50584"
              width="170.53423"
              id="rect3955-8-1-0-0-68-5-5-1-0-8" /></flowRegion><flowPara
-           id="flowPara5894">ZCN-722M</flowPara><flowPara
-           id="flowPara5896">2.422 GHz (Channel 3)</flowPara></flowRoot>    </g>
+           id="flowPara7057">ZCOM ZCN-722M</flowPara><flowPara
+           id="flowPara7059">2.422 GHz (Channel 3)</flowPara></flowRoot>    </g>
     <rect
        style="fill:none;stroke:#c3c3c3;stroke-width:1.79999983;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect2985-7-5-8-7-5-6-2-0-6-6-3"
@@ -1600,6 +1534,214 @@
        style="fill:none;stroke:#709afa;stroke-width:4.5;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        d="m 1980,-27.638 0,-112.5 -607.5,0 0,-45"
        id="path5880-3-9-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <g
+       id="g7259"
+       transform="translate(-2.36875e-6,22.499995)">
+      <rect
+         y="-745.40234"
+         x="270"
+         height="222.76434"
+         width="720"
+         id="rect2985-7-9-6"
+         style="fill:none;fill-opacity:1;stroke:#c3c3c3;stroke-width:2.25000000000000000;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <flowRoot
+         transform="matrix(2.9026431,0,0,2.9026431,-659.68061,-1062.5683)"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book, Bold'"
+         id="flowRoot3951-9-1"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3953-07-6"><rect
+             style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book, Bold'"
+             y="122"
+             x="325"
+             height="18.843336"
+             width="238.61647"
+             id="rect3955-6-0" /></flowRegion><flowPara
+           id="flowPara7232">RocketNet Hub Power and Data</flowPara></flowRoot>      <flowRoot
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
+         id="flowRoot3951-6-61-2"
+         xml:space="preserve"
+         transform="matrix(2.9026431,0,0,2.9026431,-687.14205,-1001.5485)"><flowRegion
+           id="flowRegion3953-6-5-8"><rect
+             style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
+             y="116.75244"
+             x="337.5"
+             height="86.996521"
+             width="232.54668"
+             id="rect3955-8-06-0" /></flowRegion><flowPara
+           id="flowPara7242">STM32 ARM Cortex M4 Microcontroller</flowPara><flowPara
+           id="flowPara7244">KSZ8999 Ethernet Switch</flowPara><flowPara
+           id="flowPara7246">Routes power and data to whole rocket</flowPara></flowRoot>    </g>
+    <g
+       transform="translate(180,-202.50006)"
+       id="g5135-2-5">
+      <rect
+         y="-747.63794"
+         x="1080"
+         height="134.99995"
+         width="540"
+         id="rect2985-7-5-8-7-5-6-2-0-21"
+         style="fill:none;stroke:#c3c3c3;stroke-width:1.79999983;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <flowRoot
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book, Bold'"
+         id="flowRoot3951-8-0-4-8-0-6-6-26"
+         xml:space="preserve"
+         transform="matrix(2.9026431,0,0,2.9026431,152.65972,-1085.0683)"><flowRegion
+           id="flowRegion3953-9-2-3-8-5-5-9-1"><rect
+             style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book, Bold'"
+             y="122"
+             x="325"
+             height="20"
+             width="175"
+             id="rect3955-87-4-0-4-9-8-9-8" /></flowRegion><flowPara
+           id="flowPara7175">Battery Board</flowPara></flowRoot>      <flowRoot
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
+         id="flowRoot3951-6-4-1-6-6-8-9-6-0"
+         xml:space="preserve"
+         transform="matrix(2.9026431,0,0,2.9026431,122.85795,-1024.0485)"><flowRegion
+           id="flowRegion3953-6-2-2-6-5-9-0-0-8"><rect
+             style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
+             y="116.75244"
+             x="337.5"
+             height="133.50584"
+             width="170.53423"
+             id="rect3955-8-1-0-0-68-5-5-1-8" /></flowRegion><flowPara
+           id="flowPara7177">TODO BQ Part</flowPara></flowRoot>    </g>
+    <path
+       style="fill:none;stroke:#808080;stroke-width:4.5;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 720,242.362 0,-67.5"
+       id="path6463-8"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#808080;stroke-width:4.5;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 1350,197.362 0,-67.5"
+       id="path6463-9"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#808080;stroke-width:4.5;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 1980,197.362 0,-67.5"
+       id="path6463-2"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#808080;stroke-width:4.5;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 2160,-837.638 0,-67.5"
+       id="path6463-1"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#808080;stroke-width:4.5;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 2790,-837.638 0,-67.5"
+       id="path6463-6"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#808080;stroke-width:4.5;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 1530,-950.138 0,-67.5"
+       id="path6463-0"
+       inkscape:connector-curvature="0" />
+    <g
+       transform="translate(-900,89.999939)"
+       id="g4933-6-7">
+      <rect
+         y="-1287.6379"
+         x="1080"
+         height="179.99995"
+         width="540"
+         id="rect2985-7-5-8-7-5-6-9"
+         style="fill:none;stroke:#c3c3c3;stroke-width:1.79999983;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <flowRoot
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book, Bold'"
+         id="flowRoot3951-8-0-4-8-0-87"
+         xml:space="preserve"
+         transform="matrix(2.9026431,0,0,2.9026431,152.65972,-1625.0683)"><flowRegion
+           id="flowRegion3953-9-2-3-8-5-6"><rect
+             style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book, Bold'"
+             y="122"
+             x="325"
+             height="20"
+             width="175"
+             id="rect3955-87-4-0-4-9-81" /></flowRegion><flowPara
+           id="flowPara7320">Rocket Ground Umbilical</flowPara></flowRoot>      <flowRoot
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
+         id="flowRoot3951-6-4-1-6-6-8-1"
+         xml:space="preserve"
+         transform="matrix(2.9026431,0,0,2.9026431,122.85795,-1564.0485)"><flowRegion
+           id="flowRegion3953-6-2-2-6-5-9-2"><rect
+             style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
+             y="116.75244"
+             x="337.5"
+             height="133.50584"
+             width="170.53423"
+             id="rect3955-8-1-0-0-68-5-8" /></flowRegion><flowPara
+           id="flowPara7322">~19V shore power</flowPara><flowPara
+           id="flowPara7324">Launch relay interlock (Rocket Ready)</flowPara></flowRoot>    </g>
+    <path
+       style="fill:none;stroke:#709afa;stroke-width:4.5;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 990,-567.638 630,0 0,90"
+       id="path5880-3-9-9-0-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#709afa;stroke-width:4.5;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 990,-590.138 1800,0 0,-112.5"
+       id="path7344"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#709afa;stroke-width:4.5;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 990,-612.638 1170,0 0,-90"
+       id="path7346"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#e31d1d;stroke-width:4.50000000000000000;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 990,-635.138 540,0 0,-180"
+       id="path7348"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#e31d1d;stroke-width:4.5;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:18.00000019, 36.00000037;stroke-dashoffset:0"
+       d="m 990.00003,-612.63801 1170.00007,0 0,-90"
+       id="path7348-0-6"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#e31d1d;stroke-width:4.5;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:17.99999985, 35.99999972;stroke-dashoffset:0"
+       d="m 989.99999,-590.13799 1800.00001,0 0,-112.5"
+       id="path7348-0-2"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#e31d1d;stroke-width:4.5;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:18.00000025, 36.00000051;stroke-dashoffset:0"
+       d="m 990.00003,-567.638 630.00007,0 0,90"
+       id="path7348-0-67"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
+       x="1102.5"
+       y="-657.638"
+       id="text6018-5-6-2-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan8941"
+         x="1102.5"
+         y="-657.638">Power + Ethernet</tspan></text>
+    <path
+       style="fill:none;stroke:#e31d1d;stroke-width:4.5;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:18, 36;stroke-dashoffset:0"
+       d="m -877.5,624.862 540,0 0,-180"
+       id="path7348-0-3"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#709afa;stroke-width:4.5;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 990,-657.638 90,0 0,-180 c 0,0 -135,0 -202.5,0 -225,0 -427.5,90 -427.5,-90 l 0,-90"
+       id="path7348-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccssc" />
+    <path
+       style="fill:none;stroke:#e31d1d;stroke-width:4.5;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:18, 36;stroke-dashoffset:0"
+       d="m 990,-657.638 90,0 0,-180 c 0,0 -135,0 -202.5,0 -225,0 -427.5,90 -427.5,-90 l 0,-90"
+       id="path7348-1-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccssc" />
+    <path
+       style="fill:none;stroke:#e31d1d;stroke-width:4.5;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 990,-545.138 67.5,0 0,697.5 607.5,0 0,135 45,0"
+       id="path7348-0-3-1-2"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
   </g>
