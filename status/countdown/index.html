@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="countdown.js"> </script>
+  <style>
+    body, html { height: 100%; width: 100%; margin: 0; }
+    #container { width: 80%; margin: 25px auto; }
+    * {font-family: "Helvetica Neue",Helvetica,Arial,sans-serif; line-height: 1.1; }
+    h1, h2, h3, h4, h5, h6 { font-weight: 500; }
+    hr { border-color: #eee; border-style: solid none; border-width: 1px 0; margin: 18px 0; }
+    #header { font-weight: bold; }
+    .red { color: #e11; }
+  </style>
+  <title>Launch 11 Countdown</title>
+ </head>
+ <body>
+  <div id="container">
+   <h1 id="header">PSAS Launch 11 Countdown</h1>
+   <hr>
+   <div id="count"></div>
+  </div>
+  <script>
+    var node = document.getElementById("count");
+    var count = new Counter("2014-06-21T12:00:00", node, '<h1>T&minus; abount <strong class="red">{0}</strong> days.</h1><h4>Just <strong>{4}</strong> Tusday meetings left!</h4>', 600);
+    count.start();
+  </script>
+ </body>
+</html>
