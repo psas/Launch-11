@@ -11,7 +11,7 @@ d3.gantt = function() {
 	top : 20,
 	right : 40,
 	bottom : 20,
-	left : 150
+	left : 250
     };
     var timeDomainStart = d3.time.day.offset(new Date(),-3);
     var timeDomainEnd = d3.time.hour.offset(new Date(),+3);
