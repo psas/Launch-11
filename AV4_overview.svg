@@ -15,9 +15,9 @@
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
    sodipodi:docname="AV4_overview.svg"
-   inkscape:export-filename="/home/natronics/Dropbox/PSAS/Diagrams/Block Diagrams/LV2_3_june.png"
-   inkscape:export-xdpi="108"
-   inkscape:export-ydpi="108">
+   inkscape:export-filename="/home/natronics/PSAS/Launches/Launch-11/AV4_overview.png"
+   inkscape:export-xdpi="35.555557"
+   inkscape:export-ydpi="35.555557">
   <defs
      id="defs4">
     <marker
@@ -742,18 +742,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.25089196"
-     inkscape:cx="1620"
-     inkscape:cy="1350"
+     inkscape:zoom="0.21514004"
+     inkscape:cx="1522.8516"
+     inkscape:cy="1333.0557"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="true"
      borderlayer="true"
      inkscape:showpageshadow="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1176"
-     inkscape:window-x="1280"
-     inkscape:window-y="0"
+     inkscape:window-width="1280"
+     inkscape:window-height="749"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -779,7 +779,7 @@
        id="grid4155"
        empspacing="1"
        visible="true"
-       enabled="false"
+       enabled="true"
        snapvisiblegridlinesonly="true"
        spacingx="0.25in"
        spacingy="0.25in"
@@ -1119,23 +1119,20 @@
          id="text5676"
          y="-1107.6379"
          x="202.5"
-         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
+         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
          xml:space="preserve"><tspan
-           y="-1107.6379"
-           x="202.5"
-           id="tspan5680"
-           sodipodi:role="line">~19V shore power</tspan><tspan
-           y="-1070.1379"
-           x="202.5"
-           id="tspan5682"
-           sodipodi:role="line">Launch relay interlock (Rocket Ready)</tspan></text>
+           sodipodi:role="line"
+           id="tspan3629">~18V shore power</tspan><tspan
+           sodipodi:role="line"
+           id="tspan3631">Launch relay interlock (Rocket Ready)</tspan></text>
     </g>
     <g
-       id="g6114">
+       id="g6114"
+       transform="translate(0,-45.000061)">
       <rect
          y="-1265.1379"
          x="1260"
-         height="134.99995"
+         height="157.5"
          width="540"
          id="rect2985-7-5-8-7-5-6-2-14"
          style="fill:none;stroke:#c3c3c3;stroke-width:1.79999983;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
@@ -1157,10 +1154,14 @@
          x="1282.5"
          style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
          xml:space="preserve"><tspan
-           y="-1175.1379"
+           sodipodi:role="line"
+           id="tspan3633"
            x="1282.5"
-           id="tspan6112"
-           sodipodi:role="line">TODO: Details</tspan></text>
+           y="-1175.1379">Omnivision 5647 sensor</tspan><tspan
+           sodipodi:role="line"
+           id="tspan3635"
+           x="1282.5"
+           y="-1137.6379">Up to 1080p video</tspan></text>
     </g>
     <g
        id="g6130">
@@ -1187,12 +1188,10 @@
          id="text5676-0"
          y="-972.638"
          x="1282.5"
-         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
+         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
          xml:space="preserve"><tspan
-           y="-972.638"
-           x="1282.5"
-           id="tspan6128"
-           sodipodi:role="line">TODO: Details</tspan></text>
+           sodipodi:role="line"
+           id="tspan3637">Model B (ARM11)</tspan></text>
     </g>
     <g
        id="g6198">
@@ -1435,12 +1434,10 @@
          id="text5676-9-4-0"
          y="579.862"
          x="2272.5"
-         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
+         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
          xml:space="preserve"><tspan
-           y="579.862"
-           x="2272.5"
-           id="tspan6337"
-           sodipodi:role="line">1.575 GHz</tspan></text>
+           sodipodi:role="line"
+           id="tspan3677">GPS Source A11T; 30dB gain</tspan></text>
     </g>
     <g
        id="g6445">
@@ -1467,16 +1464,12 @@
          id="text5676-9-4-28-1"
          y="287.362"
          x="1642.5"
-         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
+         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
          xml:space="preserve"><tspan
-           y="287.362"
-           x="1642.5"
-           id="tspan6441"
-           sodipodi:role="line">1 Watt</tspan><tspan
-           y="324.862"
-           x="1642.5"
-           id="tspan6443"
-           sodipodi:role="line">RF LINX 4900-5800 CA series</tspan></text>
+           sodipodi:role="line"
+           id="tspan3653">1 Watt</tspan><tspan
+           sodipodi:role="line"
+           id="tspan3655">RF Linx 4900-5800 CA series</tspan></text>
     </g>
     <g
        id="g6424">
@@ -1505,16 +1498,12 @@
          id="text5676-9-4-28-2"
          y="62.362"
          x="1642.5"
-         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
+         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
          xml:space="preserve"><tspan
-           y="62.362"
-           x="1642.5"
-           id="tspan6420"
-           sodipodi:role="line">TODO: Alpha part #</tspan><tspan
-           y="99.862"
-           x="1642.5"
-           id="tspan6422"
-           sodipodi:role="line">5.180 GHz (Channel 36)</tspan></text>
+           sodipodi:role="line"
+           id="tspan3661">Alpha Networks AWUS051NH</tspan><tspan
+           sodipodi:role="line"
+           id="tspan3663">5.180 GHz (Channel 36)</tspan></text>
     </g>
     <rect
        style="fill:none;stroke:#c3c3c3;stroke-width:1.79999983;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
@@ -1565,14 +1554,10 @@
          id="text3823-1-9-1"
          y="17.362"
          x="1260"
-         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book, Bold'"
+         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book, Bold'"
          xml:space="preserve"><tspan
-           y="17.362"
-           x="1260"
-           id="tspan5460"
-           sodipodi:role="line">802.11a/b/n USB <tspan
-   style="fill:#e31d1d;fill-opacity:1"
-   id="tspan5661">WiFi </tspan>Card</tspan></text>
+           sodipodi:role="line"
+           id="tspan3659">802.11b/g/n USB WiFi Card</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text5676-8-2"
@@ -1616,8 +1601,10 @@
          x="1012.5"
          style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
          xml:space="preserve"><tspan
-           id="tspan6635"
-           sodipodi:role="line">TODO: Details</tspan></text>
+           sodipodi:role="line"
+           id="tspan3649">3 W</tspan><tspan
+           sodipodi:role="line"
+           id="tspan3651">RF Linx 2400CA-5V</tspan></text>
     </g>
     <g
        id="g6698">
@@ -1644,12 +1631,10 @@
          id="text5676-8-8"
          y="129.862"
          x="202.5"
-         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
+         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
          xml:space="preserve"><tspan
-           id="tspan6675"
            sodipodi:role="line"
-           x="202.5"
-           y="129.862">TODO: BQ part#</tspan></text>
+           id="tspan3665">BQ3060 SBS management chip</tspan></text>
     </g>
     <g
        id="g6720">
@@ -1678,16 +1663,12 @@
          id="text5676-8-27"
          y="332.362"
          x="202.5"
-         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
+         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
          xml:space="preserve"><tspan
-           y="332.362"
-           x="202.5"
-           id="tspan6714"
-           sodipodi:role="line">4S;1P pack 4.2V 4Ah Li-Ion batteries</tspan><tspan
-           y="369.862"
-           x="202.5"
-           id="tspan6716"
-           sodipodi:role="line">~30 Watt-hours</tspan></text>
+           sodipodi:role="line"
+           id="tspan3671">4S;1P pack; 3.7V 4Ah Li-Ion batteries</tspan><tspan
+           sodipodi:role="line"
+           id="tspan3673">~60 Watt-hours</tspan></text>
     </g>
     <g
        id="g6769">
