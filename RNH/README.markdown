@@ -15,7 +15,7 @@ Being the center of activity, the RNH will need to respond to many commands.
 
 ### List of RNH Commands
 
-Command Port: 10.0.0.5:35003
+Command Port: `10.0.0.5:35003`
 
 | Name              | Description                                     | Magic String                 | Return Value                         |
 | ----------------- | ----------------------------------------------- | ---------------------------- | ------------------------------------ |
