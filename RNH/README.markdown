@@ -15,14 +15,15 @@ Being the center of activity, the RNH will need to respond to many commands.
 
 ### List of RNH Commands
 
-Command Port: `TODO`
+Command Port: `10.0.0.5:36100`
+Response Port: `10.0.0.5:36101`
 
 | Name              | Description                                     | Magic String                 | Return Value                         |
 | ----------------- | ----------------------------------------------- | ---------------------------- | ------------------------------------ |
 | Arm               | Puts the rocket in an armed state               | `#YOLO`                      | Success or failure and reason        |
 | Safe              | Takes rocket out of arm state                   | `#SAFE`                      | Success                              |
-| Power ON [port#]  | Turns on power to a port                        | `#ON_N` [N=port number byte] | Success or failure and reason        |
-| Power OFF [port#] | Turns off power to a port                       | `#FF_N` [N=port number byte] | Success or failure and reason        |
+| Power ON [port#]  | Turns on power to a port                        | `#ON_PN` [N=port number byte] | Success or failure and reason        |
+| Power OFF [port#] | Turns off power to a port                       | `#FF_PN` [N=port number byte] | Success or failure and reason        |
 | Version           | Return code version                             | `#VERS`                      | Code Version                         |
 | Get Time          | Return the current master time (RNH Boot time)  | `#TIME`                      | Time and arm state                   |
 | Power stats       | Return the current battery and power states     | `#POWR`                      | Battery charge level, ACOK, ON ports |
