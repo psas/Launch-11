@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="New document 1">
+   sodipodi:docname="L11_patch.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -106,5 +106,65 @@
        d="m 315,872.36219 -67.50004,116.91362 -135.00008,0 L 45,872.36219 l 67.49988,-116.9135 135.00008,0 z"
        id="path2997-5-1"
        inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:24.00000008px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Helvetica CE 55 Roman;-inkscape-font-specification:'Helvetica CE 55 Roman, Bold'"
+       x="180.01465"
+       y="1009.9286"
+       id="text3853"
+       sodipodi:linespacing="125%"
+       transform="scale(0.9999186,1.0000814)"><tspan
+         sodipodi:role="line"
+         id="tspan4327">L-11</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24.00000005px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Helvetica CE 55 Roman;-inkscape-font-specification:'Helvetica CE 55 Roman,'"
+       x="-663.48505"
+       y="471.18521"
+       id="text3853-6"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.4999593,-0.86595491,0.8660959,0.5000407,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan4354">Atom FC</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24.00000008px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Helvetica CE 55 Roman;-inkscape-font-specification:'Helvetica CE 55 Roman, Bold'"
+       x="180.01465"
+       y="751.5014"
+       id="text3853-60"
+       sodipodi:linespacing="125%"
+       transform="scale(0.9999186,1.0000814)"><tspan
+         sodipodi:role="line"
+         id="tspan4377">PSAS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24.00000005px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Helvetica CE 55 Roman;-inkscape-font-specification:'Helvetica CE 55 Roman,'"
+       x="663.01099"
+       y="-712.58209"
+       id="text3853-60-3"
+       sodipodi:linespacing="125%"
+       transform="matrix(-0.4999593,0.86595491,-0.8660959,-0.5000407,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan4412">DxWiFi</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24.00000005px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Helvetica CE 55 Roman;-inkscape-font-specification:'Helvetica CE 55 Roman,'"
+       x="845.67029"
+       y="159.53671"
+       id="text3853-60-8"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.4999593,0.86595491,-0.8660959,0.5000407,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan4444">Ethernet</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24.00000005px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Helvetica CE 55 Roman;-inkscape-font-specification:'Helvetica CE 55 Roman,'"
+       x="-844.50726"
+       y="-400.15317"
+       id="text3853-60-1"
+       sodipodi:linespacing="125%"
+       transform="matrix(-0.4999593,-0.86595491,0.8660959,-0.5000407,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan4467">RNH</tspan></text>
   </g>
 </svg>
