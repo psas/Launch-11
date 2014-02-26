@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 import numpy
 from scipy.integrate import simps
-from scipy.signal import firwin, lfilter
+from scipy.signal import firwin, lfilter, resample, correlate
 
 # original data. See: <https://github.com/psas/flight_data-2010.10.17>
 opal_file = '../../../data/flight_data-2010.10.17/opal/Opal_launch_rotated.csv'
@@ -16,7 +16,10 @@ window = firwin(numtaps=20, cutoff=freq_cuttoff, nyq=opal_sample_rate/2)
 
 
 
-# read in files
+################################################################################
+''' Opal '''
+
+# read in opal data
 columns = numpy.loadtxt(opal_file, delimiter=',', unpack=True)
 
 opal_time  = columns[0]
@@ -31,17 +34,65 @@ for i in range(len(opal_accel)):
         velocity.append(simps(opal_accel[:i+1], opal_time[:i+1]))
     if i > 0:
         angular_accel.append(opal_rate[i] - opal_rate[i-1])
-
 velocity = numpy.array(velocity)
 angular_accel = numpy.array(angular_accel)
+
 
 # filter angular acceleation
 angular_accel_filtered = lfilter(window, 1.0, angular_accel)
 
 
 
+################################################################################
+''' Roll '''
 
-# write out to file
-with open('model_data__.csv', 'w') as f_out:
-    for i, t in enumerate(opal_time):
-        f_out.write("%f,%f,%f,%f\n" % (t, angular_accel[i], angular_accel_filtered[i], velocity[i]))
+# read in roll data
+columns = numpy.loadtxt(roll_file, delimiter=',', unpack=True, usecols=(0,1,2,3))
+
+roll_accel = columns[1]
+fin_angle  = columns[3]
+
+# fix sign
+roll_accel = numpy.multiply(roll_accel, -1)
+
+
+# find numnber of desired samples for file
+nsamples = (len(roll_accel) * opal_sample_rate)/roll_sample_rate
+
+# resample data to same timebase
+roll_accel = resample(roll_accel, nsamples)
+fin_angle  = resample(fin_angle, nsamples)
+
+# divide by mean to normalaize for correlation
+roll_accel_meaned = numpy.subtract(roll_accel, roll_accel.mean())
+opal_accel_meaned = numpy.subtract(opal_accel, opal_accel.mean())
+
+# correlate
+z = correlate(roll_accel_meaned, opal_accel_meaned)
+offset =  (len(z)/2) - numpy.argmax(z)
+
+
+
+################################################################################
+''' Output '''
+
+# append data right amount
+opal_time = opal_time[offset:]
+opal_accel = opal_accel[offset:]
+opal_rate = opal_rate[offset:]
+angular_accel = angular_accel[offset:]
+angular_accel_filtered = angular_accel_filtered[offset:]
+velocity = velocity[offset:]
+
+length = min(len(opal_time), len(fin_angle))
+
+
+with open('model_data.csv', 'w') as f_out:
+    for i in range(length):
+        f_out.write("%f,%f,%f,%f,%f,%f,%f\n" % (  opal_time[i],
+                                            angular_accel[i],
+                                            angular_accel_filtered[i],
+                                            velocity[i],
+                                            fin_angle[i],
+                                            opal_accel[i],
+                                            roll_accel_meaned[i]))
