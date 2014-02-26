@@ -55,6 +55,10 @@ fin_angle  = columns[3]
 # fix sign
 roll_accel = numpy.multiply(roll_accel, -1)
 
+# offset and normalize fin
+fin_angle = numpy.subtract(fin_angle, 2**14 + 2**13)
+fin_angle = numpy.multiply(fin_angle, 0.00003)
+
 
 # find numnber of desired samples for file
 nsamples = (len(roll_accel) * opal_sample_rate)/roll_sample_rate
@@ -70,8 +74,6 @@ opal_accel_meaned = numpy.subtract(opal_accel, opal_accel.mean())
 # correlate
 z = correlate(roll_accel_meaned, opal_accel_meaned)
 offset =  (len(z)/2) - numpy.argmax(z)
-
-
 
 ################################################################################
 ''' Output '''
