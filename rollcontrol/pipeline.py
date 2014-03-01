@@ -28,10 +28,12 @@ opal_rate  = columns[6]
 
 # calculate velocity and angular acceleration
 velocity = [0]
+altitude = [0]
 angular_accel = [0]
 for i in range(len(opal_accel)):
     if i < len(opal_accel)-1:
         velocity.append(simps(opal_accel[:i+1], opal_time[:i+1]))
+        altitude.append(simps(velocity[:-1], opal_time[:i+1]))
     if i > 0:
         angular_accel.append(opal_rate[i] - opal_rate[i-1])
 velocity = numpy.array(velocity)
@@ -89,12 +91,17 @@ velocity = velocity[offset:]
 length = min(len(opal_time), len(fin_angle))
 
 
+output = [
+    opal_time,
+    angular_accel,
+    angular_accel_filtered,
+    velocity,
+    altitude,
+    fin_angle,
+    opal_accel,
+    roll_accel_meaned,
+]
+
 with open('model_data.csv', 'w') as f_out:
     for i in range(length):
-        f_out.write("%f,%f,%f,%f,%f,%f,%f\n" % (  opal_time[i],
-                                            angular_accel[i],
-                                            angular_accel_filtered[i],
-                                            velocity[i],
-                                            fin_angle[i],
-                                            opal_accel[i],
-                                            roll_accel_meaned[i]))
+        f_out.write(','.join('%f' % data[i] for data in output)+'\n')
