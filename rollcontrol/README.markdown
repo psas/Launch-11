@@ -11,7 +11,7 @@ flight. These are imputs to the model.
 ## Discussion
 
 `model_data_view.ipynb` is an ipython notebook that can be seen rendered on
-[nbviewer.ipython.org](http://nbviewer.ipython.org/github/psas/Launch-11/blob/gh-pages/rollcontrol/model_data_view.ipynb).
+[nbviewer.ipython.org](http://nbviewer.ipython.org/url/psas.github.io/Launch-11/rollcontrol/model_data_view.ipynb?create=1).
 
 
 ### `model_data.csv` format:
