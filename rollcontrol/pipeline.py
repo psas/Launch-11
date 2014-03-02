@@ -98,6 +98,7 @@ output = [
     velocity,
     altitude,
     fin_angle,
+    opal_rate,
     opal_accel,
     roll_accel_meaned,
 ]
