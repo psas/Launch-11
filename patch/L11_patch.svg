@@ -24,8 +24,8 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.926866"
-     inkscape:cx="180"
+     inkscape:zoom="2.725"
+     inkscape:cx="118.53211"
      inkscape:cy="180"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
@@ -83,7 +83,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -135,21 +135,25 @@
          style="fill:#ffffff;fill-opacity:1;stroke:none" />
       <text
          transform="scale(0.9999186,1.0000814)"
-         sodipodi:linespacing="125%"
+         sodipodi:linespacing="-3.1960233e+29%"
          id="text3853"
          y="1009.9286"
          x="180.01465"
-         style="font-size:24.00000008px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Helvetica CE 55 Roman;-inkscape-font-specification:'Helvetica CE 55 Roman, Bold'"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:-319602325833407068371733708800%;letter-spacing:0.34999999px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Helvetica CE 55 Roman;-inkscape-font-specification:'Helvetica CE 55 Roman, Bold'"
          xml:space="preserve"><tspan
            id="tspan4327"
-           sodipodi:role="line">L-11</tspan></text>
+           sodipodi:role="line"
+           x="180.37314"
+           y="1009.9286"
+           style="letter-spacing:0.71697241"
+           dx="0 0 -1.8348624 -4.0366974">L-11</tspan></text>
       <text
          transform="matrix(0.4999593,-0.86595491,0.8660959,0.5000407,0,0)"
          sodipodi:linespacing="125%"
          id="text3853-6"
          y="471.18521"
          x="-663.48505"
-         style="font-size:24.00000005px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Helvetica CE 55 Roman;-inkscape-font-specification:'Helvetica CE 55 Roman,'"
+         style="font-size:24.00000005000000058px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr;text-anchor:middle;fill:#646464;fill-opacity:1;stroke:none;display:inline;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,';letter-spacing:0.80000000000000004px;word-spacing:3.00000000999999994px"
          xml:space="preserve"><tspan
            id="tspan4354"
            sodipodi:role="line">Atom FC</tspan></text>
@@ -159,7 +163,7 @@
          id="text3853-60"
          y="751.5014"
          x="180.01465"
-         style="font-size:24.00000008px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Helvetica CE 55 Roman;-inkscape-font-specification:'Helvetica CE 55 Roman, Bold'"
+         style="font-size:24.00000007999999951px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Helvetica CE 55 Roman;-inkscape-font-specification:'Helvetica CE 55 Roman, Bold';letter-spacing:8.77000083px"
          xml:space="preserve"><tspan
            id="tspan4377"
            sodipodi:role="line">PSAS</tspan></text>
@@ -169,7 +173,7 @@
          id="text3853-60-3"
          y="-712.58209"
          x="663.01099"
-         style="font-size:24.00000005px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Helvetica CE 55 Roman;-inkscape-font-specification:'Helvetica CE 55 Roman,'"
+         style="font-size:24.00000005000000058px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr;text-anchor:middle;fill:#646464;fill-opacity:1;stroke:none;display:inline;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,';letter-spacing:0.80000000000000004px"
          xml:space="preserve"><tspan
            id="tspan4412"
            sodipodi:role="line">DxWiFi</tspan></text>
@@ -179,7 +183,7 @@
          id="text3853-60-8"
          y="159.53671"
          x="845.67029"
-         style="font-size:24.00000005px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Helvetica CE 55 Roman;-inkscape-font-specification:'Helvetica CE 55 Roman,'"
+         style="font-size:24.00000005000000058px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr;text-anchor:middle;fill:#646464;fill-opacity:1;stroke:none;display:inline;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,';letter-spacing:0.80000000000000004px"
          xml:space="preserve"><tspan
            id="tspan4444"
            sodipodi:role="line">Ethernet</tspan></text>
@@ -189,7 +193,7 @@
          id="text3853-60-1"
          y="-400.15317"
          x="-844.50726"
-         style="font-size:24.00000005px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Helvetica CE 55 Roman;-inkscape-font-specification:'Helvetica CE 55 Roman,'"
+         style="font-size:24.00000005000000058px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr;text-anchor:middle;fill:#646464;fill-opacity:1;stroke:none;display:inline;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,';letter-spacing:0.80000000000000004px"
          xml:space="preserve"><tspan
            id="tspan4467"
            sodipodi:role="line">RNH</tspan></text>
@@ -208,13 +212,6 @@
          transform="matrix(1,0,0,-1,94.442211,1632.9719)"
          id="g4536"
          style="stroke:#8d8d8d;stroke-width:2.36072507999999992;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none">
-        <rect
-           style="opacity:0.69999999999999996;fill:#9d9d9d;fill-opacity:1;stroke:#8d8d8d;stroke-width:2.36072507999999992;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
-           id="rect3729-0"
-           width="19.290918"
-           height="2.55321"
-           x="668.32886"
-           y="807.43121" />
         <rect
            style="opacity:0.69999999999999996;fill:#9d9d9d;fill-opacity:1;stroke:#8d8d8d;stroke-width:2.36072507999999992;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
            id="rect3731-9"
@@ -319,6 +316,29 @@
        inkscape:rounded="0"
        inkscape:randomized="0"
        d="M 382.5,33.75 379.1127,25.887298 371.25,22.5 379.1127,19.112702 382.5,11.25 385.8873,19.112702 393.75,22.5 l -7.8627,3.387298 z"
-       transform="matrix(0.34945333,0,0,0.34945333,-40.278599,838.06813)" />
+       transform="matrix(0.34945333,0,0,0.34945333,-22.349601,820.68318)" />
+    <g
+       transform="matrix(0,0.25683405,-0.25683405,0,348.17673,791.87779)"
+       id="g18011"
+       style="fill:#fac673;fill-opacity:1;stroke:#dda448;display:inline;stroke-opacity:1;stroke-width:7.00841652;stroke-miterlimit:4;stroke-dasharray:none">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3814"
+         d="m 400.9764,465.30834 c -49.38042,0 -93.10255,16.98379 -119.96315,43.09156 l 15.99027,21.45212 c 19.54798,-23.63056 62.61696,-43.21112 104.3421,-43.21112 38.63154,0 79.3696,16.95238 99.73214,37.72695 l 16.06945,-19.50907 C 490.06044,480.76112 448.09143,465.30834 400.9764,465.30834 z"
+         style="fill:#fac673;fill-opacity:1;stroke:#dda448;stroke-opacity:1;stroke-width:7.00841652;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:nodetypes="sccsccs" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3822"
+         d="m 397.0101,543.0085 c -28.08789,0 -53.72857,9.45868 -73.23736,25.02396 l 13.63609,18.85149 c 14.69969,-11.19829 39.59467,-23.12648 60.3397,-23.12648 19.47464,0 41.82616,10.01163 56.11425,20.00432 l 14.78425,-17.00414 C 449.34337,551.941 424.33686,543.0085 397.0101,543.0085 z"
+         style="fill:#fac673;fill-opacity:1;stroke:#dda448;stroke-opacity:1;stroke-width:7.00841652;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:nodetypes="sccsccs" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#fac673;fill-opacity:1;stroke:#dda448;stroke-opacity:1;stroke-width:7.00841652;stroke-miterlimit:4;stroke-dasharray:none"
+         d="m 400.3467,388.18223 c -64.89926,0 -123.19613,22.72738 -163.34889,58.8299 l 13.22435,17.99549 c 29.6711,-31.07583 90.45424,-54.32692 149.88879,-54.32692 58.97743,0 117.6061,24.49327 147.40022,55.16941 l 15.47118,-19.49899 C 522.84226,410.62933 464.85592,388.18223 400.3467,388.18223 z"
+         id="path3824"
+         sodipodi:nodetypes="sccsccs" />
+    </g>
   </g>
 </svg>
