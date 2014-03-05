@@ -192,9 +192,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.78666668"
-     inkscape:cx="1831.0169"
-     inkscape:cy="1282.6271"
+     inkscape:zoom="0.19666667"
+     inkscape:cx="1620"
+     inkscape:cy="1350"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -229,7 +229,7 @@
        id="grid3650"
        empspacing="1"
        visible="true"
-       enabled="true"
+       enabled="false"
        snapvisiblegridlinesonly="true"
        units="in"
        spacingx="0.25in"
@@ -265,7 +265,7 @@
        id="guide3816" />
     <sodipodi:guide
        orientation="0,1"
-       position="1620,1350"
+       position="2880,1350"
        id="guide3818" />
   </sodipodi:namedview>
   <metadata
@@ -389,30 +389,31 @@
          y="977.36218">Launch relay interlock (Rocket Ready)</tspan></text>
     <path
        style="fill:none;stroke:#b637e5;stroke-width:9;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 1980,-387.6378 c 90,0 67.5,-48 90,-48"
+       d="m 2160,-387.63778 c 90,0 67.5,-48 90,-48"
        id="path5880-3-9-9-0-7-6-2-7-3"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <g
-       id="g4633">
+       id="g4633"
+       transform="translate(180,1.7382812e-5)">
       <rect
          y="-477.63782"
-         x="1260"
+         x="1080"
          height="360.00003"
-         width="720"
+         width="900"
          id="rect2985-7-5-8-7-5-6-9-5-1"
-         style="fill:#dedede;stroke:#c3c3c3;stroke-width:1.79999971000000003;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;fill-opacity:0.11764706" />
+         style="fill:#dedede;fill-opacity:0.11764706;stroke:#c3c3c3;stroke-width:1.79999971;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
       <text
          sodipodi:linespacing="125%"
          id="text3823-4-5"
-         y="-410.13779"
-         x="1552.5"
+         y="-387.63782"
+         x="1530"
          style="font-size:30px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book, Bold'"
          xml:space="preserve"><tspan
            id="tspan4588"
            sodipodi:role="line"
-           x="1552.5"
-           y="-410.13779">Rocket Net Hub</tspan></text>
+           x="1530"
+           y="-387.63782">Rocket Net Hub</tspan></text>
     </g>
     <rect
        style="fill:#dedede;fill-opacity:0.11764706;stroke:#7e7e7e;stroke-opacity:1"
@@ -462,29 +463,31 @@
        d="m 1620,647.36222 0,-45"
        id="path4734-61"
        inkscape:connector-curvature="0" />
-    <g
-       transform="translate(1170,720.00002)"
-       id="g4628-3">
-      <rect
-         y="-1107.6378"
-         x="1350"
-         height="179.99995"
-         width="540"
-         id="rect2985-7-5-8-7-5-6-9-5-8-9"
-         style="fill:none;stroke:#c3c3c3;stroke-width:1.79999983;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text3823-4-3-6"
-         y="-1017.6378"
-         x="1620"
-         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book, Bold'"
-         xml:space="preserve"><tspan
-           sodipodi:role="line"
-           id="tspan4825">Launch Tower Computer</tspan></text>
-    </g>
+    <rect
+       style="fill:none;stroke:#c3c3c3;stroke-width:1.79999983;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect2985-7-5-8-7-5-6-9-5-8-9"
+       width="360"
+       height="179.99995"
+       x="2700"
+       y="-387.63779" />
+    <text
+       xml:space="preserve"
+       style="font-size:30px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book, Bold'"
+       x="2880"
+       y="-297.63779"
+       id="text3823-4-3-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3436"
+         x="2880"
+         y="-297.63779">Launch Tower</tspan><tspan
+         sodipodi:role="line"
+         id="tspan3438"
+         x="2880"
+         y="-260.13779">Computer</tspan></text>
     <path
        style="fill:none;stroke:#709afa;stroke-width:9;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 1620,-117.6378 c 0,270 0,270 0,540"
+       d="m 1710,-117.6378 c 0,270 -90,270 -90,540"
        id="path5880-3-9-9-0-7-6"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
@@ -496,13 +499,13 @@
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#709afa;stroke-width:9;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 2520,-297.6378 -540,0"
+       d="m 2430,-297.6378 -270,0"
        id="path5880-3-9-9-0-7-6-0"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#709afa;stroke-width:9;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 1440,-927.6378 c 0,180 180,270 180,450"
+       d="m 1440,-927.6378 c 0,180 270,270 270,450"
        id="path5880-3-9-9-0-7-6-27"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
@@ -619,12 +622,12 @@
     <text
        xml:space="preserve"
        style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
-       x="1620"
-       y="-320.13779"
+       x="1710"
+       y="-297.63779"
        id="text5676-8-7-9-88-4-9"
        sodipodi:linespacing="125%"><tspan
-         y="-320.13779"
-         x="1620"
+         y="-297.63779"
+         x="1710"
          sodipodi:role="line"
          id="tspan4985-6-1">STM 32</tspan></text>
     <g
@@ -723,7 +726,7 @@
     </g>
     <path
        style="fill:none;stroke:#e31d1d;stroke-width:9;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 1800,-477.6378 c 0,-270 630,-180 596,-492"
+       d="m 1980,-477.6378 c 0,-270 450,-180 416,-492"
        id="path5880-3-9-9-0-7-6-2-7-5-7"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
@@ -821,7 +824,7 @@
     </g>
     <path
        style="fill:none;stroke:#709afa;stroke-width:9;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 1800,-117.6378 c 0,270 720,90 720,540"
+       d="m 1980,-117.6378 c 0,270 540,90 540,540"
        id="path5880-3-9-9-0-7-6-2-9"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
@@ -912,19 +915,6 @@
            x="1642.5"
            y="-882.63782">Data</tspan></text>
     </g>
-    <text
-       xml:space="preserve"
-       style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
-       x="1350"
-       y="-252.6378"
-       id="text5676-8-7-9-88-4-9-1"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3169">· Master Clock</tspan><tspan
-         sodipodi:role="line"
-         id="tspan3171">· Arm State</tspan><tspan
-         sodipodi:role="line"
-         id="tspan3173" /></text>
     <text
        xml:space="preserve"
        style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
@@ -1018,23 +1008,23 @@
        id="rect4707-1-9-0"
        width="67.5"
        height="67.5"
-       x="1800"
-       y="320.13779"
+       x="1980"
+       y="320.13776"
        transform="scale(1,-1)" />
     <text
        xml:space="preserve"
        style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
-       x="1845"
-       y="-410.13779"
+       x="2025"
+       y="-410.13776"
        id="text5676-8-7-9-8-7-1"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3497"
-         x="1845"
-         y="-410.13779">BQ24725</tspan></text>
+         x="2025"
+         y="-410.13776">BQ24725</tspan></text>
     <g
        id="g3376"
-       transform="translate(90,175.00002)">
+       transform="translate(270,175.00004)">
       <rect
          transform="scale(1,-1)"
          y="567.63782"
@@ -1093,13 +1083,15 @@
        sodipodi:nodetypes="cc" />
     <text
        xml:space="preserve"
-       style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#ad0808;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
-       x="2184"
-       y="-423.63779"
+       style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ad0808;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
+       x="2214"
+       y="-563.63782"
        id="text6018-5-6-2-4-0-7-2-9-0"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan3425">Battery</tspan></text>
+         id="tspan3425"
+         x="2214"
+         y="-563.63782">Battery</tspan></text>
     <rect
        style="fill:#ad0808;fill-opacity:1;stroke:none"
        id="rect5013-3"
@@ -1112,17 +1104,50 @@
        id="rect4707-1-9-0-56"
        width="67.5"
        height="67.5"
-       x="1800"
-       y="140.1378"
+       x="1980"
+       y="140.13779"
        transform="scale(1,-1)" />
     <text
        xml:space="preserve"
-       style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
-       x="1845"
-       y="-230.01781"
+       style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
+       x="2025"
+       y="-230.01779"
        id="text5676-8-7-9-8-7-1-29"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan3392">MAX4734ETC(x2)</tspan></text>
+         id="tspan3392"
+         x="2025"
+         y="-230.01779">MAX4734ETC(x2)</tspan></text>
+    <rect
+       style="fill:#dedede;fill-opacity:0.11764706;stroke:#7e7e7e;stroke-width:0.99999994;stroke-opacity:1"
+       id="rect4707-1-9-0-8"
+       width="179.99998"
+       height="179.99998"
+       x="1260"
+       y="207.63782"
+       transform="scale(1,-1)" />
+    <text
+       xml:space="preserve"
+       style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
+       x="1350"
+       y="-297.63779"
+       id="text5676-8-7-9-8-7-1-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3431"
+         x="1350"
+         y="-297.63779">KSZ8999</tspan></text>
+    <path
+       style="fill:none;stroke:#709afa;stroke-width:9;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 2610,-297.6378 90,0"
+       id="path5880-3-9-9-0-7-6-0-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#709afa;stroke-width:9;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:9,18;stroke-dashoffset:0"
+       d="m 2610,-297.6378 -180,0"
+       id="path5880-3-9-9-0-7-6-0-8-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
   </g>
 </svg>
