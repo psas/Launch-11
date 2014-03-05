@@ -6,12 +6,15 @@ launches.
 `create_model_data.py` was written to take data from the succesful
 [2010 roll control launch](https://github.com/psas/flight_data-2010.10.17)
 and find the rocket's airspeed and angular acceleration for the duration of the
-flight. These are imputs to the model.
+flight. These are inputs to the model.
 
 ## Discussion
 
-`model_data_view.ipynb` is an ipython notebook that can be seen rendered on
-[nbviewer.ipython.org](http://nbviewer.ipython.org/url/psas.github.io/Launch-11/rollcontrol/model_data_view.ipynb?create=1).
+[`model_data_view.ipynb`](http://nbviewer.ipython.org/url/psas.github.io/Launch-11/rollcontrol/model_data_view.ipynb?create=1)
+is an ipython notebook for studying the sensor data up to apogee.
+
+[`model_fit.ipynb`](http://nbviewer.ipython.org/url/psas.github.io/Launch-11/rollcontrol/model_fit.ipynb?create=1)
+is an ipython notebook giving the aerodynamic model we're using to describe the effect of our canards.
 
 
 ### `model_data.csv` format:
