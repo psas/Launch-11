@@ -30,12 +30,10 @@ opal_rate  = columns[6]
 velocity = [0]
 altitude = [0]
 angular_accel = [0]
-for i in range(len(opal_accel)):
-    if i < len(opal_accel)-1:
-        velocity.append(simps(opal_accel[:i+1], opal_time[:i+1]))
-        altitude.append(simps(velocity[:-1], opal_time[:i+1]))
-    if i > 0:
-        angular_accel.append(opal_rate[i] - opal_rate[i-1])
+for i in range(1, len(opal_accel)):
+    altitude.append(simps(velocity, opal_time[:i]))
+    velocity.append(simps(opal_accel[:i], opal_time[:i]))
+    angular_accel.append(opal_rate[i] - opal_rate[i-1])
 velocity = numpy.array(velocity)
 angular_accel = numpy.array(angular_accel)
 
