@@ -193,8 +193,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.19666667"
-     inkscape:cx="1609.8305"
-     inkscape:cy="1288.9831"
+     inkscape:cx="1620"
+     inkscape:cy="1350"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -208,7 +208,7 @@
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     showguides="false"
+     showguides="true"
      inkscape:guide-bbox="true">
     <inkscape:grid
        type="xygrid"
@@ -230,7 +230,7 @@
        empspacing="1"
        visible="true"
        enabled="false"
-       snapvisiblegridlinesonly="false"
+       snapvisiblegridlinesonly="true"
        units="in"
        spacingx="0.25in"
        spacingy="0.25in"
@@ -389,7 +389,7 @@
          y="977.36218">Launch relay interlock (Rocket Ready)</tspan></text>
     <path
        style="fill:none;stroke:#b637e5;stroke-width:9;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 1980,-477.6378 c 90,0 -90,-90 0,-90"
+       d="m 1980,-387.6378 c 90,0 67.5,-48 90,-48"
        id="path5880-3-9-9-0-7-6-2-7-3"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
@@ -500,7 +500,7 @@
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#709afa;stroke-width:9;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 1620,-927.6378 0,450"
+       d="m 1440,-927.6378 c 0,180 180,270 180,450"
        id="path5880-3-9-9-0-7-6-27"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
@@ -626,7 +626,8 @@
          sodipodi:role="line"
          id="tspan4985-6-1">STM 32</tspan></text>
     <g
-       id="g5148">
+       id="g5148"
+       transform="translate(-180,1.7382813e-5)">
       <rect
          y="-1107.6378"
          x="1350"
@@ -696,27 +697,31 @@
        id="path5880-3-9-9-0-7-6-2-7"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
-    <rect
-       style="fill:none;stroke:#c3c3c3;stroke-width:1.79999971;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-       id="rect2985-7-5-8-7-5-6-9-5-8-8-1-9-4"
-       width="360"
-       height="90"
-       x="540"
-       y="-1107.6378" />
-    <text
-       xml:space="preserve"
-       style="font-size:30px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book, Bold'"
-       x="720"
-       y="-1058.1379"
-       id="text3823-4-3-5-3-72-6"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3351"
+    <g
+       id="g3381"
+       transform="translate(1672,42.500156)">
+      <rect
+         y="-1107.6378"
+         x="540"
+         height="94.499878"
+         width="360"
+         id="rect2985-7-5-8-7-5-6-9-5-8-8-1-9-4"
+         style="fill:none;stroke:#c3c3c3;stroke-width:1.79999971;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3823-4-3-5-3-72-6"
+         y="-1058.1379"
          x="720"
-         y="-1058.1379">Power Amp</tspan></text>
+         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book, Bold'"
+         xml:space="preserve"><tspan
+           y="-1058.1379"
+           x="720"
+           id="tspan3351"
+           sodipodi:role="line">Power Amp</tspan></text>
+    </g>
     <path
        style="fill:none;stroke:#e31d1d;stroke-width:9;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 1440,-477.6378 c 0,-90 -270,-588 -540,-588"
+       d="m 1800,-477.6378 c 0,-270 630,-180 596,-492"
        id="path5880-3-9-9-0-7-6-2-7-5-7"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
@@ -728,7 +733,7 @@
          id="text6018-5-6-2-4-0"
          y="332.36221"
          x="1260"
-         style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
+         style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ad0808;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
          xml:space="preserve"><tspan
            y="332.36221"
            x="1260"
@@ -737,13 +742,13 @@
     </g>
     <g
        id="g5849"
-       transform="translate(45,22.500017)">
+       transform="translate(-135,22.500034)">
       <text
          sodipodi:linespacing="125%"
          id="text6018-5-6-2-4-0-6"
          y="-882.63782"
          x="1642.5"
-         style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
+         style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ad0808;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
          xml:space="preserve"><tspan
            id="tspan5847"
            sodipodi:role="line"
@@ -752,13 +757,13 @@
     </g>
     <g
        id="g5772-4"
-       transform="translate(135,-1192.5)">
+       transform="translate(-45,-1192.5)">
       <text
          sodipodi:linespacing="125%"
          id="text6018-5-6-2-4-0-5"
          y="332.36221"
          x="1260"
-         style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
+         style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ad0808;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
          xml:space="preserve"><tspan
            y="332.36221"
            x="1260"
@@ -770,27 +775,29 @@
        id="rect2985-7-5-8-7-5-6-9-5-8-8-1-9-4-98"
        width="360"
        height="134.99997"
-       x="1980"
+       x="1800"
        y="-1085.1378" />
     <text
        xml:space="preserve"
-       style="font-size:30px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book, Bold'"
-       x="2160"
+       style="font-size:30px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book, Bold'"
+       x="1980"
        y="-1017.6379"
        id="text3823-4-3-5-3-72-6-2"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan5944">WiFi</tspan></text>
+         id="tspan5944"
+         x="1980"
+         y="-1017.6379">WiFi</tspan></text>
     <path
        style="fill:none;stroke:#2f2f2f;stroke-opacity:1"
-       d="m 1890,-1017.6378 90,0"
+       d="m 1710,-1017.6378 90,0"
        id="path4734-61-5"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <g
        id="g5998"
        style="fill:none;stroke:#9c9c9c;stroke-width:7.19999981;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       transform="translate(-46.3185,-2.71149)">
+       transform="translate(202.5,2.5000174)">
       <path
          sodipodi:nodetypes="ccc"
          inkscape:connector-curvature="0"
@@ -877,7 +884,7 @@
          id="g5772-8">
         <text
            xml:space="preserve"
-           style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
+           style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ad0808;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
            x="1260"
            y="332.36221"
            id="text6018-5-6-2-4-0-7"
@@ -896,7 +903,7 @@
          id="text6018-5-6-2-4-0-6-8"
          y="-882.63782"
          x="1642.5"
-         style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
+         style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ad0808;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
          xml:space="preserve"><tspan
            id="tspan5847-7"
            sodipodi:role="line"
@@ -917,18 +924,18 @@
          sodipodi:role="line"
          id="tspan4459">· Port Power Monitor</tspan><tspan
          sodipodi:role="line"
-         id="tspan4461"></tspan></text>
+         id="tspan4461" /></text>
     <text
        xml:space="preserve"
        style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
-       x="2460"
-       y="-399.63779"
+       x="2340"
+       y="-117.6378"
        id="text6018-5-6-2-4-0-6-8-1"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan6190"
-         x="2460"
-         y="-399.63779">ARM, Safe, other commands</tspan></text>
+         x="2340"
+         y="-117.6378">ARM, Safe, other commands</tspan></text>
     <rect
        style="fill:#dedede;fill-opacity:0.11764706;stroke:#7e7e7e;stroke-opacity:1"
        id="rect4707-1-9"
@@ -993,7 +1000,7 @@
          id="text6018-5-6-2-4-0-7-2"
          y="332.36221"
          x="1260"
-         style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
+         style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ad0808;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
          xml:space="preserve"><tspan
            sodipodi:role="line"
            id="tspan6090-3"
@@ -1025,26 +1032,32 @@
          id="tspan3497"
          x="1755"
          y="-230.01781">BQ24725</tspan></text>
-    <rect
-       style="fill:#dedede;fill-opacity:0.11764706;stroke:#7e7e7e;stroke-opacity:1"
-       id="rect4707-1-9-0-5"
-       width="90"
-       height="90"
-       x="1980"
-       y="567.63782"
-       transform="scale(1,-1)" />
+    <g
+       id="g3376"
+       transform="translate(90,175.00002)">
+      <rect
+         transform="scale(1,-1)"
+         y="567.63782"
+         x="1980"
+         height="90"
+         width="90"
+         id="rect4707-1-9-0-5"
+         style="fill:#dedede;fill-opacity:0.11764706;stroke:#7e7e7e;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text5676-8-7-9-8-7-1-2"
+         y="-680.01782"
+         x="2025"
+         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
+         xml:space="preserve"><tspan
+           id="tspan3523"
+           sodipodi:role="line"
+           x="2025"
+           y="-680.01782">BQ3060</tspan></text>
+    </g>
     <text
        xml:space="preserve"
-       style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
-       x="2025"
-       y="-680.01782"
-       id="text5676-8-7-9-8-7-1-2"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3523">BQ3060</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
+       style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#ad0808;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
        x="390"
        y="-769.63782"
        id="text6018-5-6-2-4-0-7-2-9"
@@ -1072,5 +1085,27 @@
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4538">Crescent</tspan></text>
+    <path
+       style="fill:none;stroke:#2f2f2f;stroke-opacity:1"
+       d="m 2160,-1017.6378 52,0"
+       id="path4734-61-5-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#ad0808;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
+       x="2184"
+       y="-423.63779"
+       id="text6018-5-6-2-4-0-7-2-9-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3425">Battery</tspan></text>
+    <rect
+       style="fill:#ad0808;fill-opacity:1;stroke:none"
+       id="rect5013-3"
+       width="67.5"
+       height="67.5"
+       x="-382.5"
+       y="332.36221" />
   </g>
 </svg>
