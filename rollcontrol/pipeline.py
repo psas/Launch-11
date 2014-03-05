@@ -2,7 +2,7 @@
 import numpy
 import os.path
 from scipy.integrate import simps
-from scipy.signal import firwin, lfilter, resample, correlate
+from scipy.signal import resample, correlate
 import sys
 
 data_dir = sys.argv[1]
@@ -13,10 +13,6 @@ roll_file = os.path.join(data_dir, 'roll/raw/output_trim.csv')
 
 opal_sample_rate =  128     # Hz
 roll_sample_rate = 1000     # Hz
-
-# filter design
-freq_cuttoff = 10  # Hz, low pass
-window = firwin(numtaps=20, cutoff=freq_cuttoff, nyq=opal_sample_rate/2)
 
 
 
@@ -40,10 +36,6 @@ for i in range(1, len(opal_accel)):
     angular_accel.append(opal_rate[i] - opal_rate[i-1])
 velocity = numpy.array(velocity)
 angular_accel = numpy.array(angular_accel)
-
-
-# filter angular acceleration, since pairwise differentiation blows up noise
-angular_accel_filtered = lfilter(window, 1.0, angular_accel)
 
 
 
@@ -87,7 +79,6 @@ opal_time = opal_time[offset:]
 opal_accel = opal_accel[offset:]
 opal_rate = opal_rate[offset:]
 angular_accel = angular_accel[offset:]
-angular_accel_filtered = angular_accel_filtered[offset:]
 velocity = velocity[offset:]
 
 length = min(len(opal_time), len(fin_angle))
@@ -96,7 +87,6 @@ length = min(len(opal_time), len(fin_angle))
 output = [
     opal_time,
     angular_accel,
-    angular_accel_filtered,
     velocity,
     altitude,
     fin_angle,

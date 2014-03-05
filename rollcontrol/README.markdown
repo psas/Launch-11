@@ -20,7 +20,6 @@ Columns:
 
  1. time [s]
  1. angular acceleration [&deg;/s/s]
- 1. angular acceleration (low pass filtered) [&deg;/s/s]
  1. velocity [m/s]
  1. altitude [m]
  1. fin angle [aproximate angle in radians]
