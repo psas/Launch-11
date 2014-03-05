@@ -1,11 +1,15 @@
 #!/usr/bin/env python
 import numpy
+import os.path
 from scipy.integrate import simps
 from scipy.signal import firwin, lfilter, resample, correlate
+import sys
+
+data_dir = sys.argv[1]
 
 # original data. See: <https://github.com/psas/flight_data-2010.10.17>
-opal_file = '../../../data/flight_data-2010.10.17/opal/Opal_launch_rotated.csv'
-roll_file = '../../../data/flight_data-2010.10.17/roll/raw/output_trim.csv'
+opal_file = os.path.join(data_dir, 'opal/Opal_launch_rotated.csv')
+roll_file = os.path.join(data_dir, 'roll/raw/output_trim.csv')
 
 opal_sample_rate =  128     # Hz
 roll_sample_rate = 1000     # Hz
