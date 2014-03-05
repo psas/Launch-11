@@ -38,7 +38,7 @@ velocity = numpy.array(velocity)
 angular_accel = numpy.array(angular_accel)
 
 
-# filter angular acceleation
+# filter angular acceleration, since pairwise differentiation blows up noise
 angular_accel_filtered = lfilter(window, 1.0, angular_accel)
 
 
@@ -60,14 +60,14 @@ fin_angle = numpy.subtract(fin_angle, 2**14 + 2**13)
 fin_angle = numpy.multiply(fin_angle, 0.00003)
 
 
-# find numnber of desired samples for file
+# find number of desired samples for file
 nsamples = (len(roll_accel) * opal_sample_rate)/roll_sample_rate
 
 # resample data to same timebase
 roll_accel = resample(roll_accel, nsamples)
 fin_angle  = resample(fin_angle, nsamples)
 
-# divide by mean to normalaize for correlation
+# subtract off the mean to de-bias for correlation
 roll_accel_meaned = numpy.subtract(roll_accel, roll_accel.mean())
 opal_accel_meaned = numpy.subtract(opal_accel, opal_accel.mean())
 
