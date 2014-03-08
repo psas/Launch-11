@@ -81,6 +81,8 @@ A list of parts that have PSAS software on the Flight Computer:
    - KSZ8999
      - Turn on and off
      - Configure for QoS
+       - Sensors -> flight computer is a priority link
+       - Flight computer -> servo is a priority link
    - BQ24725
      - Configure to charge battery
      - Charge only on ACOK
