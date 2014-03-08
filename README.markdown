@@ -7,6 +7,13 @@
  - Fly
  - Dont Crash
  - Safety Third
+ - Ground Support
+   - Ignition Control
+     - Launch Tower Computer
+     - Remote application
+   - Effective recovery 
+     - Locating 
+     - Transport
  - Recover Telemetry
    - Create data
      - Sensors
@@ -17,10 +24,6 @@
    - Record on ground
    - Ground display
    - Record on data creating device
- - Roll control
-   - Algorithm 
-   - Sensor Data
-   - Actuator
  - Raw GPS
    - Record locally
  - Video
@@ -29,9 +32,10 @@
    - Live feed of Down to ground
    - Record on ground
    - Ground Display
- - Ground Support
-   - Launch Tower Computer
-   - Ignition Control
+ - Roll control
+   - Algorithm 
+   - Sensor Data
+   - Actuator
 
 Data about PSAS's 12th official flight.
 
