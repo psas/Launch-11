@@ -3,6 +3,36 @@
 ![Mission Patch](http://psas.github.io/Launch-11/patch/L11_patch.svg)
 
 
+## Objectives:
+ - Fly
+ - Dont Crash
+ - Safety Third
+ - Recover Telemetry
+   - Create data
+     - Sensors
+     - Events
+     - Commands
+   - Record on Telemetry Endpoint
+   - Live feed to ground
+   - Record on ground
+   - Ground display
+   - Record on data creating device
+ - Roll control
+   - Algorithm 
+   - Sensor Data
+   - Actuator
+ - Raw GPS
+   - Record locally
+ - Video
+   - Up and Down
+   - Record Locally
+   - Live feed of Down to ground
+   - Record on ground
+   - Ground Display
+ - Ground Support
+   - Launch Tower Computer
+   - Ignition Control
+
 Data about PSAS's 12th official flight.
 
 Info about Arm State [arm-state.markdown](arm-state.markdown)
