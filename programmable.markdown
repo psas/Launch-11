@@ -3,20 +3,125 @@
 A list of parts that have PSAS software on the Flight Computer:
 
 
- - Main Flight Computer (_Intel Atom N455 1.66 GHz x86_64_)
-   - OS: Linux 3.10
+ - Main Flight Computer (_Intel Atom N455 1.66 GHz x86\_64_)
+   - BIOS fast boot?
+   - OS: Linux 3.10 (update?) https://github.com/psas/fc-environment
+      - Real time?
+      - Fast boot?
+      - autostart flight programs
+        - FCF
+        - monitor
+      - networking (wifi, others?)
+        - redirect VideoDown stream to wifi
+      - minimal extra processes
+    - FCF https://github.com/psas/av3-fc
+      - Process sensor input
+      - run roll algorithm 
+      - log telemetry
+    - monitor
+      - https://github.com/psas/av3-fc/issues/2
  - GPS (_STM32_)
+   - IP: 
    - OS: ChibiOS
- - Video1 (_Raspberry Pi ARM11_)
+   - Main GPS chip
+     - log locally only
+   - USB-serail to other GPS
+     - Send to FC
+   - Handle Errors
+ - VideoPi (2x)(_Raspberry Pi ARM11_)
+   - VideoDown ip:
+   - VideoUp ip:
    - OS: Linux
- - Video2 (_Raspberry Pi ARM11_)
-   - OS: Linux
+   - Start recording to SD card on boot
+   - Compress VideoDown and send over ethernet FC
+   - Ability to clear SD card (ssh in)
+   - Version command
  - Control (_STM32_)
+   - IP:
    - OS: ChibiOS
+   - Servo Control
+     - Set up PWM
+     - Listen Socket for messages
+     - Enable/Disable flag
+     - check bounds (disable for flight?)
+     - Set PWM
+     - Respond with could not set demanded values
+   - launch detect
+     - look for change on pin
+     - debounce
+     - send to FC
+     - log
+   - Version command
  - Data (_STM32_)
+   - IP:
    - OS: ChibiOS
+   - ADIS16405
+     - Send sensor data
+     - Send sensor Errors
+     - Auto-diagnostics
+     - record locally
+       - Get timestamps from master clock on RNH
+   - MPU
+     - Send sensor data
+     - Send errors
+     - Auto-diagnostics
+     - record locally
+       - Get timestamps from master clock on RNH
+   - MPL
+     - Send sensor data
+     - Send errors
+     - Auto-diagnostics
+     - record locally
+       - Get timestamps from master clock on RNH
+   - Spincan
+     - Send sensor data
+     - ???
  - RNH (_STM32_)
    - OS: ChibiOS
+   - KSZ8999
+     - Turn on and off
+     - Configure for QoS
+   - BQ24725
+     - Configure to charge battery
+     - Charge only on ACOK
+     - Read IMON
+   - BQ3060
+     - Charge battery
+     - Recover battery information
+   - MAX4734
+     - Recover port bank current usage
+   - Ports
+     - Turn on and off
+     - Querry state
+   - Arm/safe metastate
+     - Not stored explicitly
+     - Determined from what is currently on or off
+       - TODO: enumerate precise list
+       - Everything on is arm
+       - if at least one thing is off is unarmed
+       - Safe?
+       - everything off?
+   - Sleep
+     - Only when explicitly told (not default behavior)
+     - Only when everything is turrned off
+   - Master clock
+     - for local recoring
+   - launch detect?
+     - link light
+ - RocketNet
+   - Determine addresses
+   - Sync across all projects
+   - Data format
+     - Packet
+       - One or more messages in a UDP packet, prefixed with a packet counter
+     - Message
+       - Union of header and data
+     - Data
+       - Data counter + data
+   - Internal RocketNet talks in Data format
+   - Logging is in Message format
+   - Rocket-Ground link is in Packet format
+    
 
 ### Overview:
 
