@@ -7,7 +7,7 @@ This flight features a very sophisicated multi-part avionics stack.
 
 # AV4 Overview
 
-![AV4 Overview](AV4_overview.svg)
+![AV4 Overview](http://psas.github.io/Launch-11/avionics/AV4_overview.svg)
 
 AV4 stackup:
 
@@ -42,7 +42,7 @@ The **R**ocket **N**et **H**ub is the central power and data distribution node
 for the rocket. It contains an 8 port Ethernet switch and an STM32
 microcontroller.
 
-![RNH Overview](RNH_overview.svg)
+![RNH Overview](http://psas.github.io/Launch-11/avionics/RNH_overview.svg)
 
 ### RNH API
 
