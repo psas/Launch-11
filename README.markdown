@@ -2,8 +2,11 @@
 
 ![Mission Patch](http://psas.github.io/Launch-11/patch/L11_patch.svg)
 
+**L-11** is the 12th launch in Portland State Aerospace Society history. For a
+full program launch history see [psas.pdx.edu](http://psas.pdx.edu/).
 
-## Objectives:
+
+# L-11 Objectives
 
  1. **Launch** our LV2.3 airframe summer 2014
  1. **Successful flight** to at lest 75% of projected altitude; recover all hardware intact.
@@ -15,7 +18,7 @@
    - Record telemetry on rocket
    - Live stream to ground
    - Record on ground
-   - Real time display on ground 
+   - Real time display on ground
    - Record on data creating device
  1. **Ground Support**
    - Remote, safe, digital ignition control
@@ -37,18 +40,16 @@
       - Real time ground display
 
 
-Info about Arm State [arm-state.markdown](arm-state.markdown) and 
-Programmable parts [programmable.markdown](programmable.markdown).
+--------------------------------------------------------------------------------
 
-
-For a full program launch history see [psas.pdx.edu](http://psas.pdx.edu/).
+## Rocket Overview
 
 ![Rocket Overview](http://psas.github.io/Launch-11/rocket_overview.svg)
 
 
 ## Jargon and Projects:
 
- - **Elderberry**: A python package with a event model `c` code generator to compile the Flight Computer. Also called the FCF
+ - **Elderberry**: A python package with a event model c code generator to compile the Flight Computer. Also called the FCF
  - **FC**: The **F**light **C**omputer
  - [**RNH**](https://github.com/psas/Launch-11/tree/gh-pages/RNH): **R**ocket **N**et **H**ub, the power and data distribution for the rocket
  - **FCF**: **F**light **C**omputer **F**ramework. _see: Elderberry_
