@@ -4,44 +4,41 @@
 
 
 ## Objectives:
- - Fly
- - Dont Crash
- - Safety Third
- - Ground Support
-   - Ignition Control
-     - Launch Tower Computer
-     - Remote application
-   - Effective recovery 
-     - Locating 
-     - Transport
- - Recover Telemetry
-   - Create data
-     - Sensors
-     - Events
-     - Commands
-   - Record on Telemetry Endpoint
-   - Live feed to ground
+
+ 1. **Launch** our LV2.3 airframe summer 2014
+ 1. **Successful flight** to at lest 75% of projected altitude; recover all hardware intact.
+ 1. **Telemetry**
+   - get data from:
+      - Inertial sensors
+      - Events (e.g., 'launch')
+      - Commands
+   - Record telemetry on rocket
+   - Live stream to ground
    - Record on ground
-   - Ground display
+   - Real time display on ground 
    - Record on data creating device
- - Raw GPS
-   - Record locally
- - Video
-   - Up and Down
-   - Record Locally
-   - Live feed of Down to ground
-   - Record on ground
-   - Ground Display
- - Roll control
-   - Algorithm 
-   - Sensor Data
-   - Actuator
+ 1. **Ground Support**
+   - Remote, safe, digital ignition control
+   - Effective recovery
+      - Coordination between recovery teams and mission control
+      - Know rocket location immediatly after landing
+      - Easy transportation back to flight line
+ 1. **Experiments**
+   - Roll control
+      - Documented algorithm and analysis
+      - Include control data in telemetry
+   - Record raw GPS RF environment to SD card
+   - Digital Video
+      - Downward facing camera
+      - Record locally
+      - Live digital feed of camera to ground in integrated telemetry stream
+      - Record on ground
+      - Secondary upward facing camera
+      - Real time ground display
 
-Data about PSAS's 12th official flight.
 
-Info about Arm State [arm-state.markdown](arm-state.markdown)
-
-Programmable parts [programmable.markdown](programmable.markdown)
+Info about Arm State [arm-state.markdown](arm-state.markdown) and 
+Programmable parts [programmable.markdown](programmable.markdown).
 
 
 For a full program launch history see [psas.pdx.edu](http://psas.pdx.edu/).
