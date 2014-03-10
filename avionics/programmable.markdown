@@ -125,6 +125,6 @@ A list of parts that have PSAS software on the Flight Computer:
    - Rocket-Ground link is in Packet format
     
 
-### Overview:
+## Overview:
 
-![RNH Overview](http://psas.github.io/Launch-11/RNH/RNH_overview.svg)
+![RNH Overview](http://psas.github.io/Launch-11/avionics/RNH_overview.svg)
