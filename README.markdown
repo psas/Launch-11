@@ -9,7 +9,7 @@ full program launch history see [psas.pdx.edu](http://psas.pdx.edu/).
 # L-11 Objectives
 
  1. **Launch** our LV2.3 airframe summer 2014
- 1. **Successful flight** to at lest 75% of projected altitude; recover all hardware intact.
+ 1. **Successful flight** to at least 75% of projected altitude; recover all hardware intact.
  1. **Telemetry**
    - get data from:
       - Inertial sensors
