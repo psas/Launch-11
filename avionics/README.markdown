@@ -116,12 +116,13 @@ Being the center of activity, the RNH will need to respond to many commands:
 Command Port: `10.0.0.5:36100`
 Response Port: `10.0.0.5:36101`
 
+Command format: [Hashtag][FourCC code][fixed n bytes of data]
+
 | Name              | Description                                     | Magic String                  | Return Value                         |
 | ----------------- | ----------------------------------------------- | ----------------------------- | ------------------------------------ |
 | Arm               | Puts the rocket in an armed state               | `#YOLO`                       | Success or failure and reason        |
 | Safe              | Takes rocket out of arm state                   | `#SAFE`                       | Success                              |
-| Power ON [port#]  | Turns on power to a port                        | `#ON_PN` [N=port number byte] | Success or failure and reason        |
-| Power OFF [port#] | Turns off power to a port                       | `#FF_PN` [N=port number byte] | Success or failure and reason        |
+| Port [action][ports]| Takes an action on a set of ports. Valid actions are Status (0), Fault (1), On (2), Off (3). Ports are a bitfield where bit 0 coresponds to port 1, ..., bit 7 coresponds to port 8. | `#PORT` [byte,number][byte,bitfield] | Active ports masked by the port bitfield, or faulting ports if Fault is the action|
 | Version           | Return code version                             | `#VERS`                       | Code Version                         |
 | Get Time          | Return the current master time (RNH Boot time)  | `#TIME`                       | Time and arm state                   |
 | Power stats       | Return the current battery and power states     | `#POWR`                       | Battery charge level, ACOK, ON ports |
