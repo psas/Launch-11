@@ -24,7 +24,7 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.7127698"
+     inkscape:zoom="2.4222222"
      inkscape:cx="202.5"
      inkscape:cy="202.5"
      inkscape:document-units="in"
@@ -92,63 +92,6 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-647.36218)">
-    <g
-       id="g4261"
-       transform="translate(38.12116,-66.423298)">
-      <text
-         xml:space="preserve"
-         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0.80000001px;word-spacing:3px;writing-mode:lr-tb;text-anchor:middle;opacity:0.98999999;fill:#646464;fill-opacity:1;stroke:none;display:inline;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
-         x="-888.75342"
-         y="71.170578"
-         id="text3853-6-6"
-         sodipodi:linespacing="125%"
-         transform="matrix(0.4999593,-0.86595491,0.8660959,0.5000407,0,0)"><tspan
-           y="71.170578"
-           x="-888.35339"
-           id="tspan3104-1"
-           sodipodi:role="line">Telemetry</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0.80000001px;writing-mode:lr-tb;text-anchor:middle;fill:#646464;fill-opacity:1;stroke:none;display:inline;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
-         x="886.94586"
-         y="-315.61099"
-         id="text3853-60-3-2"
-         sodipodi:linespacing="125%"
-         transform="matrix(-0.4999593,0.86595491,-0.8660959,-0.5000407,0,0)"><tspan
-           y="-315.61099"
-           x="887.34589"
-           sodipodi:role="line"
-           id="tspan4412-3">DxWiFi</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0.80000001px;writing-mode:lr-tb;text-anchor:middle;fill:#646464;fill-opacity:1;stroke:none;display:inline;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
-         x="-612.80469"
-         y="-795.16034"
-         id="text3853-60-8-8"
-         sodipodi:linespacing="125%"
-         transform="matrix(-0.4999593,-0.86595491,0.8660959,-0.5000407,0,0)"><tspan
-           y="-795.16034"
-           x="-612.40466"
-           sodipodi:role="line"
-           id="tspan4444-1">Ethernet</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0.80000001px;writing-mode:lr-tb;text-anchor:middle;fill:#646464;fill-opacity:1;stroke:none;display:inline;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
-         x="609.18768"
-         y="551.77515"
-         id="text3853-60-1-5"
-         sodipodi:linespacing="125%"
-         transform="matrix(0.4999593,0.86595491,-0.8660959,0.5000407,0,0)"><tspan
-           y="551.77515"
-           x="609.58771"
-           sodipodi:role="line"
-           id="tspan4467-8">RNH</tspan></text>
-    </g>
-    <path
-       style="opacity:0.98999999;fill:#99a8ca;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m -242.125,952.54971 c -2.09373,0 -4.15092,0.18523 -6.15625,0.5 l 20.15625,34.56247 13.6875,-23.68747 c -7.11283,-7.03443 -16.89336,-11.375 -27.6875,-11.375 z m -10.375,1.40625 c -11.8043,3.21593 -21.38134,11.78367 -26,22.93752 l 39.15625,-0.1875 L -252.5,953.95596 z m 40.96875,13.21875 -20.25,35.46879 27.53125,0 c 0.9617,-3.40752 1.5,-7.00362 1.5,-10.71882 0,-9.3858 -3.29967,-17.9845 -8.78125,-24.74997 z m -68.0625,12.62497 c -1.23394,3.8181 -1.90625,7.8962 -1.90625,12.125 0,9.18572 3.16504,17.61452 8.4375,24.31252 l 20.8125,-36.43752 -27.34375,0 z m 21.875,17.6875 -12.625,21.87502 c 7.15381,7.3551 17.14801,11.9375 28.21875,11.9375 1.34859,0 2.68631,-0.086 4,-0.2187 l -19.59375,-33.59382 z m 51.90625,9.68752 -41.6875,0.1875 13.34375,23.125 c 12.82582,-2.6349 23.3776,-11.5128 28.34375,-23.3125 z"
-       id="path4159-2"
-       inkscape:connector-curvature="0" />
     <path
        style="fill:#6d8f11;fill-opacity:1;stroke:none"
        d="m 390.00034,849.42459 -93.71113,162.31261 -187.42225,0 -93.710904,-162.31261 93.710904,-162.31243 187.42225,0 z"
@@ -190,27 +133,27 @@
        id="path2997-5" />
     <g
        id="text3853"
-       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;letter-spacing:0.34999999px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Helvetica CE 55 Roman;-inkscape-font-specification:'Helvetica CE 55 Roman, Bold'"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;letter-spacing:0.34999998999999998px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Helvetica CE 55 Roman;-inkscape-font-specification:'Helvetica CE 55 Roman, Bold'"
        transform="matrix(1.1105593,0,0,1.1107401,2.661247,-119.46423)">
       <path
          inkscape:connector-curvature="0"
          id="path3204"
-         style="line-height:100%;letter-spacing:0.71697241;fill:#fac673;fill-opacity:1;stroke:none;font-family:Helvetica CE 55 Roman;-inkscape-font-specification:'Helvetica CE 55 Roman, Bold'"
+         style="line-height:100%;letter-spacing:0.71697241000000000;fill:#000000;fill-opacity:1;stroke:none;font-family:Helvetica CE 55 Roman;-inkscape-font-specification:'Helvetica CE 55 Roman, Bold'"
          d="m 159.06222,1009.9286 12.12,0 0,-3.168 -8.352,0 0,-13.96801 -3.768,0 0,17.13601" />
       <path
          inkscape:connector-curvature="0"
          id="path3206"
-         style="line-height:100%;letter-spacing:0.71697241;fill:#fac673;fill-opacity:1;stroke:none;font-family:Helvetica CE 55 Roman;-inkscape-font-specification:'Helvetica CE 55 Roman, Bold'"
+         style="line-height:100%;letter-spacing:0.71697241000000000;fill:#000000;fill-opacity:1;stroke:none;font-family:Helvetica CE 55 Roman;-inkscape-font-specification:'Helvetica CE 55 Roman, Bold'"
          d="m 171.86394,1004.8406 7.224,0 0,-2.928 -7.224,0 0,2.928" />
       <path
          inkscape:connector-curvature="0"
          id="path3208"
-         style="line-height:100%;letter-spacing:0.71697241;fill:#fac673;fill-opacity:1;stroke:none;font-family:Helvetica CE 55 Roman;-inkscape-font-specification:'Helvetica CE 55 Roman, Bold'"
+         style="line-height:100%;letter-spacing:0.71697241000000000;fill:#000000;fill-opacity:1;stroke:none;font-family:Helvetica CE 55 Roman;-inkscape-font-specification:'Helvetica CE 55 Roman, Bold'"
          d="m 188.63205,993.12859 -2.712,0 c -0.096,0.64002 -0.296,1.17601 -0.6,1.608 -0.288,0.43201 -0.656,0.78401 -1.104,1.056 -0.448,0.25601 -0.952,0.44001 -1.512,0.552 -0.544,0.096 -1.112,0.13601 -1.704,0.12 l 0,2.568 4.224,0 0,10.89601 3.408,0 0,-16.80001" />
       <path
          inkscape:connector-curvature="0"
          id="path3210"
-         style="line-height:100%;letter-spacing:0.71697241;fill:#fac673;fill-opacity:1;stroke:none;font-family:Helvetica CE 55 Roman;-inkscape-font-specification:'Helvetica CE 55 Roman, Bold'"
+         style="line-height:100%;letter-spacing:0.71697241000000000;fill:#000000;fill-opacity:1;stroke:none;font-family:Helvetica CE 55 Roman;-inkscape-font-specification:'Helvetica CE 55 Roman, Bold'"
          d="m 198.6717,993.12859 -2.712,0 c -0.096,0.64002 -0.296,1.17601 -0.6,1.608 -0.288,0.43201 -0.656,0.78401 -1.104,1.056 -0.448,0.25601 -0.952,0.44001 -1.512,0.552 -0.544,0.096 -1.112,0.13601 -1.704,0.12 l 0,2.568 4.224,0 0,10.89601 3.408,0 0,-16.80001" />
     </g>
     <g
