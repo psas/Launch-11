@@ -45,3 +45,5 @@ Half height drop. Around 3:20 we reset and moved the drag shield manually to
 around half the full height of the drop before triggering the drop. This was in
 an effort to slightly reduce the peak g's and increase the amount of time spent
 in the magnetic breaks.
+
+ - [Results of Drop 1](http://nbviewer.ipython.org/url/psas.github.io/Launch-11/droptest/2014-05-16-drop-1/results.ipynb?create=1)
