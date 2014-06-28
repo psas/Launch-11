@@ -1,4 +1,4 @@
-SVG=AV4_overview.svg rocket_overview.svg patch/L11_patch.svg
+SVG=avionics/AV4_overview.svg avionics/spectrum.svg avionics/RNH_overview.svg rocket_overview.svg
 WIDTH=1280
 
 # Make png and pdf files from svg
