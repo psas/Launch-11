@@ -5,6 +5,11 @@
 **L-11** is the 12th launch in Portland State Aerospace Society history. For a
 full program launch history see [psas.pdx.edu](http://psas.pdx.edu/).
 
+## Scheduled Launch: July 20th, 2014!
+
+We hope to launch in Central Oregon July 20th. This will mostly be a checkout
+and data gathering flight for our upgraded avioncs stack and stil-in-developemnt
+rocket software stack.
 
 # L-11 Objectives
 
@@ -41,6 +46,15 @@ full program launch history see [psas.pdx.edu](http://psas.pdx.edu/).
 
 
 --------------------------------------------------------------------------------
+
+## Major Projects:
+
+ - Primary Flight Computer Softawre: [psas/av3fc](https://github.com/psas/av3-fc)
+ - Microcontroller firmware: [psas/stm32](https://github.com/psas/stm32)
+ - Electronics CAD files: [psas/avionics-cad](https://github.com/psas/avionics-cad)
+ - Data format spec: [psas/psas_packet](https://github.com/psas/psas_packet)
+ - Telemetry viewer: [psas/telemetry](https://github.com/psas/telemetry)
+
 
 ## Rocket Overview
 
