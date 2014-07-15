@@ -9,7 +9,7 @@ This flight features a very sophisicated multi-part avionics stack.
 
 ![AV4 Overview](http://psas.github.io/Launch-11/avionics/AV4_overview.svg)
 
-# Hardware Mapping
+# Hardware Mapping
 
  1. **Launch** our LV2.3 airframe summer 2014
  1. **Successful flight** to at least 75% of projected altitude; recover all hardware intact.
@@ -107,22 +107,15 @@ microcontroller.
 
 ![RNH Overview](http://psas.github.io/Launch-11/avionics/RNH_overview.svg)
 
-### RNH API
 
-Being the center of activity, the RNH will need to respond to many commands:
+# Network
 
-### List of RNH Commands
+The ground and rocket has a significant network infrastructure:
 
-Command Port: `10.0.0.5:36100`
-Response Port: `10.0.0.5:36101`
+![Network Diagram](http://psas.github.io/Launch-11/avionics/network_diagram.svg)
 
-Command format: [Hashtag][FourCC code][fixed n bytes of data]
 
-| Name              | Description                                     | Magic String                  | Return Value                         |
-| ----------------- | ----------------------------------------------- | ----------------------------- | ------------------------------------ |
-| Arm               | Puts the rocket in an armed state               | `#YOLO`                       | Success or failure and reason        |
-| Safe              | Takes rocket out of arm state                   | `#SAFE`                       | Success                              |
-| Port [action][ports]| Takes an action on a set of ports. Valid actions are Status (0), Fault (1), On (2), Off (3). Ports are a bitfield where bit 0 coresponds to port 1, ..., bit 7 coresponds to port 8. | `#PORT` [byte,number][byte,bitfield] | Active ports masked by the port bitfield, or faulting ports if Fault is the action|
-| Version           | Return code version                             | `#VERS`                       | Code Version                         |
-| Get Time          | Return the current master time (RNH Boot time)  | `#TIME`                       | Time and arm state                   |
-| Power stats       | Return the current battery and power states     | `#POWR`                       | Battery charge level, ACOK, ON ports |
+# Radio Spectrum Allocation 
+
+![Radio Spectrum](http://psas.github.io/Launch-11/avionics/spectrum.svg)
+
