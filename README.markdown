@@ -8,7 +8,7 @@ full program launch history see [psas.pdx.edu](http://psas.pdx.edu/).
 ## Scheduled Launch: July 20th, 2014!
 
 We hope to launch in Central Oregon July 20th. This will mostly be a checkout
-and data gathering flight for our upgraded avioncs stack and stil-in-developemnt
+and data gathering flight for our upgraded avionics stack and still-in-development
 rocket software stack.
 
 # L-11 Objectives
@@ -29,7 +29,7 @@ rocket software stack.
    - Remote, safe, digital ignition control
    - Effective recovery
       - Coordination between recovery teams and mission control
-      - Know rocket location immediatly after landing
+      - Know rocket location immediately after landing
       - Easy transportation back to flight line
  1. **Experiments**
    - Roll control
@@ -63,7 +63,7 @@ rocket software stack.
 
 ## Jargon and Projects:
 
- - **Elderberry**: A python package with a event model c code generator to compile the Flight Computer. Also called the FCF
+ - **Elderberry**: A python package with a event model C code generator to compile the Flight Computer. Also called the FCF
  - **FC**: The **F**light **C**omputer
  - **RNH**: **R**ocket **N**et **H**ub, the power and data distribution for the rocket
  - **FCF**: **F**light **C**omputer **F**ramework. _see: Elderberry_

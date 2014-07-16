@@ -4,7 +4,7 @@ This flight features a very sophisicated multi-part avionics stack.
 
 **AV4** is roughly the 5th iteration of our rocket avionics.
 
-![FC Stack](http://psas.github.io/Launch-11/avionics/photos/FC_stack.png)
+![FC Stack](http://psas.github.io/Launch-11/avionics/photos/FC-stack.jpg)
 
 
 # AV4 Overview

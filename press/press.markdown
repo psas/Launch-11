@@ -85,15 +85,16 @@ Early Saturday morning PSAS members leave Portland in a loose convoy to drive to
  **Time** (PDT) | **Event**
  -------------- | ---------
   05:40         | Sunrise
-  09:00         | Final check out and button up of all components
-  10:00         | Full rocket assembly
-  11:00         | Move rocket to launch tower and prep for launch
-  12:00         | **Launch**
-  13:00         | Receive rocket back at mission control
-  13:30         | Rocket disassembled, data retrieved
-  15:00         | Launch site clean up and packing
-  16:00         | Leave for Portland
-  21:00         | Arrive in Portland
+  07:00         | Breakfast/coffee
+  08:00         | Final check out and button up of all components
+  08:40         | Full rocket assembly
+  09:00         | Move rocket to launch tower and prep for launch
+  10:00         | **Launch**
+  10:40         | Receive rocket back at mission control
+  12:30         | Rocket disassembled, data retrieved
+  14:00         | Launch site clean up and packing
+  14:30         | Leave for Portland
+  19:00         | Arrive in Portland
 
 
 \pagebreak
