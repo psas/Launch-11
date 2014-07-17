@@ -119,5 +119,4 @@ The ground and rocket has a significant network infrastructure:
 
 # Radio Spectrum Allocation 
 
-![Radio Spectrum](http://psas.github.io/Launch-11/avionics/spectrum.svg)
-
+![Radio Spectrum](http://psas.github.io/Launch-11/avionics/photos/spectrum.png)
