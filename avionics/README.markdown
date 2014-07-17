@@ -114,7 +114,7 @@ microcontroller.
 
 The ground and rocket has a significant network infrastructure:
 
-![Network Diagram](http://psas.github.io/Launch-11/avionics/network_diagram.svg)
+![Network Diagram](http://psas.github.io/Launch-11/avionics/photos/network_diagram.png)
 
 
 # Radio Spectrum Allocation 

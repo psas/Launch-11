@@ -14,7 +14,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="network_diagram.svg">
+   sodipodi:docname="network_diagram.svg"
+   inkscape:export-filename="/home/natronics/PSAS/Launches/Launch-11/avionics/network_diagram.png"
+   inkscape:export-xdpi="40"
+   inkscape:export-ydpi="40">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -24,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.39333333"
-     inkscape:cx="2077.6271"
-     inkscape:cy="1367.7966"
+     inkscape:zoom="0.19666667"
+     inkscape:cx="1879.322"
+     inkscape:cy="1411.0169"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -100,7 +103,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -768,15 +771,13 @@
        sodipodi:nodetypes="cccc" />
     <text
        xml:space="preserve"
-       style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
+       style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
        x="742.5"
        y="242.3622"
        id="text6018-5-6-2-2"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan7103"
-         x="742.5"
-         y="242.3622">Rocket</tspan></text>
+         id="tspan3717">Rocket Network</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:32.223526px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Helvetica CE 55 Roman;-inkscape-font-specification:'Helvetica CE 55 Roman,'"
@@ -794,7 +795,7 @@
          y="327.64163">10.10.10.0/24</tspan></text>
     <g
        id="g6654"
-       transform="translate(-90,1.1605999e-4)">
+       transform="translate(-180,1.7382813e-5)">
       <text
          sodipodi:linespacing="125%"
          id="text6018-5-6-2-2-4"
@@ -802,10 +803,10 @@
          x="2160"
          style="font-size:48.335289px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
          xml:space="preserve"><tspan
-           y="602.36218"
+           sodipodi:role="line"
+           id="tspan3719"
            x="2160"
-           id="tspan7282"
-           sodipodi:role="line">Ground</tspan></text>
+           y="602.36218">Ground Network</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text6018-5-6-2-2-2-3"
@@ -813,14 +814,14 @@
          x="2160"
          style="font-size:32.223526px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Helvetica CE 55 Roman;-inkscape-font-specification:'Helvetica CE 55 Roman,'"
          xml:space="preserve"><tspan
-           id="tspan5697"
            sodipodi:role="line"
+           id="tspan3711"
            x="2160"
            y="656.06805">DHCP</tspan><tspan
-           id="tspan5699"
            sodipodi:role="line"
+           id="tspan3713"
            x="2160"
-           y="696.34747">10.0.0.0/24</tspan></text>
+           y="696.34747">10.0.0.10/24</tspan></text>
     </g>
     <g
        id="g5072-0"
@@ -878,12 +879,10 @@
          id="text5676-8-8-8"
          y="129.862"
          x="382.5"
-         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans Mono;-inkscape-font-specification:Droid Sans Mono"
+         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans Mono;-inkscape-font-specification:Droid Sans Mono"
          xml:space="preserve"><tspan
            sodipodi:role="line"
-           id="tspan5695"
-           x="382.5"
-           y="129.862">10.10.10.0/24</tspan></text>
+           id="tspan3715">10.10.10.128/25</tspan></text>
     </g>
     <g
        id="g6698-4-0"
@@ -1435,7 +1434,7 @@
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#709afa;stroke-width:6.30000019;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:50.4, 12.6, 6.3, 12.6;stroke-dashoffset:0;marker-end:none"
-       d="m 2722.5,-95.1378 -225,405 0,360.0001 67.5,-10e-5"
+       d="m 2722.5,-95.1378 -225,405 0,427.5001 67.5,-10e-5"
        id="path5824-4-1-8-8-1"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
@@ -1463,12 +1462,10 @@
          id="text5676-8-8-8-30-5-7-4"
          y="-117.6378"
          x="1282.5"
-         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans Mono;-inkscape-font-specification:Droid Sans Mono"
+         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans Mono;-inkscape-font-specification:Droid Sans Mono"
          xml:space="preserve"><tspan
            sodipodi:role="line"
-           id="tspan5689"
-           x="1282.5"
-           y="-117.6378">10.0.0.1/24</tspan></text>
+           id="tspan3703">10.0.0.0/24</tspan></text>
     </g>
     <g
        id="g5072-9-9"
@@ -1552,12 +1549,10 @@
          id="text3823-1-9-53-8-1-44-8-7"
          y="84.862"
          x="382.5"
-         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book, Bold'"
+         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book, Bold'"
          xml:space="preserve"><tspan
            sodipodi:role="line"
-           id="tspan5891"
-           x="382.5"
-           y="84.862">Laptop</tspan></text>
+           id="tspan3705">Laptop 0</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text5676-8-8-8-30-14-7-4"
@@ -1583,12 +1578,10 @@
          id="text3823-1-9-53-8-1-44-8-7-1"
          y="84.862"
          x="382.5"
-         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book, Bold'"
+         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book, Bold'"
          xml:space="preserve"><tspan
            sodipodi:role="line"
-           id="tspan5891-0"
-           x="382.5"
-           y="84.862">Laptop</tspan></text>
+           id="tspan3707">Laptop 1</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text5676-8-8-8-30-14-7-4-4"
@@ -1603,7 +1596,7 @@
     </g>
     <g
        id="g6698-4-8-1-2-7-3"
-       transform="translate(2340,562.5002)">
+       transform="translate(2340,630.0002)">
       <path
          inkscape:connector-curvature="0"
          style="fill:none;stroke:#c3c3c3;stroke-width:1.2549901;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0"
@@ -1617,9 +1610,9 @@
          style="font-size:30px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book, Bold'"
          xml:space="preserve"><tspan
            sodipodi:role="line"
-           id="tspan5891-2"
+           id="tspan3709"
            x="382.5"
-           y="84.862">Laptop</tspan></text>
+           y="84.862">Laptop N</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text5676-8-8-8-30-14-7-4-9"
@@ -1635,14 +1628,14 @@
     <text
        sodipodi:linespacing="125%"
        id="text5676-8-8-8-30-14-7-1-1"
-       y="782.36218"
+       y="624.86218"
        x="2722.5"
        style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans Mono;-inkscape-font-specification:Droid Sans Mono"
        xml:space="preserve"><tspan
          sodipodi:role="line"
          id="tspan5966"
          x="2722.5"
-         y="782.36218">...</tspan></text>
+         y="624.86218">...</tspan></text>
     <path
        style="fill:none;stroke:#e31d1d;stroke-width:4.5;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:18, 18;stroke-dashoffset:0"
        d="m 967.5,-208.0055 0,-224.6323 202.5,0 0,-22.5"
