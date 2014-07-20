@@ -58,6 +58,12 @@ rocket software stack.
 
 ## Rocket Overview
 
+Rocket Data
+
+ - Liftoff Mass: 74.9 lbs
+ - Motor: N2501
+
+
 ![Rocket Overview](http://psas.github.io/Launch-11/rocket_overview.svg)
 
 
