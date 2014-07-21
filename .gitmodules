@@ -7,3 +7,6 @@
 [submodule "telemetry-viewer"]
 	path = telemetry-viewer
 	url = https://github.com/psas/telemetry.git
+[submodule "commander"]
+	path = commander
+	url = https://github.com/psas/commander.git
