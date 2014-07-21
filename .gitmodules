@@ -4,3 +4,6 @@
 [submodule "Flight-Computer"]
 	path = Flight-Computer
 	url = https://github.com/psas/av3-fc.git
+[submodule "telemetry-viewer"]
+	path = telemetry-viewer
+	url = https://github.com/psas/telemetry.git
