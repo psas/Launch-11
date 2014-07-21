@@ -1,0 +1,3 @@
+[submodule "Firmware"]
+	path = Firmware
+	url = https://github.com/psas/stm32.git
