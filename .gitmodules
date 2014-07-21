@@ -1,3 +1,6 @@
 [submodule "Firmware"]
 	path = Firmware
 	url = https://github.com/psas/stm32.git
+[submodule "Flight-Computer"]
+	path = Flight-Computer
+	url = https://github.com/psas/av3-fc.git
