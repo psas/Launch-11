@@ -70,7 +70,7 @@ Rocket Data
 ## Jargon and Projects:
 
  - **Elderberry**: A python package with a event model C code generator to compile the Flight Computer. Also called the FCF
- - **FC**: The **F**light **C**omputer
- - **RNH**: **R**ocket **N**et **H**ub, the power and data distribution for the rocket
- - **FCF**: **F**light **C**omputer **F**ramework. _see: Elderberry_
+ - **FC**: The <b>F</b>light <b>C</b>omputer
+ - **RNH**: <b>R</b>ocket <b>N</b>et <b>H</b>ub, the power and data distribution for the rocket
+ - **FCF**: <b>F</b>light <b>C</b>omputer <b>F</b>ramework. _see: Elderberry_
  - **Telemetry Viewer**: A python backend for a web based viewer for arbitrary data
