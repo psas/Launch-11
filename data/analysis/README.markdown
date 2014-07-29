@@ -11,3 +11,8 @@ Then use the makefile to get csv's of the raw data in `../raw`:
 
     $ make csv
 
+
+## First Look
+
+**[IPython Notebook: first-look.ipynb](http://nbviewer.ipython.org/github/psas/Launch-11/blob/gh-pages/data/analysis/first-look.ipynb)**
+
