@@ -13,6 +13,14 @@ PSAS log file recorded on the rocket by the flight computer:
 
  - `raw/flight-computer.log`
 
+Decoded log file from flight computer over entire log, FCFH messages
+
+ - `raw/fcf_full_log_FCFH.csv`
+
+Decoded log file from flight computer over entire log, RNHH messages
+
+ - `raw/fcf_full_log_RNHH.csv`
+
 ARTS2 commercial flight computer raw log:
 
  - `raw/ARTS2_2014-07-20_Data.odf`
