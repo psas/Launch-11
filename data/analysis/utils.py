@@ -27,9 +27,9 @@ class Plot(object):
     def legend(self, loc=1):
         plt.legend(loc=loc)
 
-    def timex(self):
+    def timex(self, sep=30):
         fmt = ticker.FuncFormatter(hms)
-        loc = ticker.MultipleLocator(30)
+        loc = ticker.MultipleLocator(sep)
         self.ax.axes[0].xaxis.set_major_locator(loc)
         self.ax.axes[0].xaxis.set_major_formatter(fmt)
         plt.xticks(rotation=-40)
