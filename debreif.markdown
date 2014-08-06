@@ -70,3 +70,8 @@ Flawless
 ### Rocket Ready
 
  - Hardware failure?
+
+# Launch Info
+
+- Hill coordinates: 43 deg 47' 27" N, 120 deg 38' 10" W
+- Rocket landing location: 43 deg 48.004 N, 120 deg 37.532 W
