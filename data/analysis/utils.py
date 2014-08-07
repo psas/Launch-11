@@ -1,6 +1,11 @@
 import matplotlib.pyplot as plt
 from matplotlib import ticker
 
+# constants
+g_0 = 9.80665      # standard gravity, g, m/s/s
+p_0 = 101.326      # sea level, kPa
+
+
 red = '#e31d1d'
 green = '#76e146'
 blue = '#709afa'
@@ -15,8 +20,11 @@ class Plot(object):
         plt.ylabel(ylabel)
         self.ax.axes[0].grid(color='grey', alpha=0.2, linestyle='dashed', linewidth=0.5)
 
-    def plot(self, x, y, color='#e31d1d', alpha=0.8, lw=0.6, label="data"):
-        plt.plot(x, y, color, alpha=alpha, lw=lw, label=label)
+    def plot(self, x, y, color='#e31d1d', alpha=0.8, lw=0.6, label="data", log=False):
+        if log:
+            plt.semilogy(x, y, color, alpha=alpha, lw=lw, label=label)
+        else:
+            plt.plot(x, y, color, alpha=alpha, lw=lw, label=label)
 
     def xlim(self, lim):
         self.ax.axes[0].set_xlim(lim)
