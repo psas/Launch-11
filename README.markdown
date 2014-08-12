@@ -1,15 +1,15 @@
-# PSAS Launch-11
+# PSAS Launch 11
 
 ![Mission Patch](http://psas.github.io/Launch-11/patch/L11_patch.svg)
 
 **L-11** is the 12th launch in Portland State Aerospace Society history. For a
 full program launch history see [psas.pdx.edu](http://psas.pdx.edu/).
 
-## Scheduled Launch: July 20th, 2014!
+## Launched July 20th, 2014
 
-We hope to launch in Central Oregon July 20th. This will mostly be a checkout
-and data gathering flight for our upgraded avionics stack and still-in-development
-rocket software stack.
+[![launch Onboard](http://img.youtube.com/vi/4tdJA9KQr98/0.jpg) Watch launch on youtube](http://www.youtube.com/watch?v=4tdJA9KQr98)
+
+The flight ended up mostly as a checkout and data gathering flight for our upgraded avionics stack and still-in-development rocket software stack.
 
 # L-11 Objectives
 
